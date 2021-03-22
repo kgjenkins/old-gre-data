@@ -1,547 +1,641 @@
-cartodb_id,pleiades_id,continent,n1,n2,n3,region,verified,notes,pointx,pointy
-"1",,Italy,Brioni Island,,,Region X,locality,,13.7609,44.912
-"2",,Europe,Creta,,,,,,0,0
-"32",,Europe,Germania Inferior,Blackenheim,Rural Villa,,,,0,0
-"34",,Italy,Villa Adriana,Canopus gardens,,Region IV,verified,,12.7759409,41.93847218
-"36",,Europe,Britannia,Chedworth,Rural Villa,,,,-1.924798,51.81983
-"37",,Italy,Villas near Tivoli,Colle Vitriano,,Region IV,locality,,12.7982,41.95389
-"38",,Italy,Villas near Tivoli,Cynthia's villa,,Region IV,,,0,0
-"42",,Europe,Germania Superior,Ferpicloz,Rural Villa,,,,0,0
-"51",,Africa,Aegyptus,Imbrahimiya,Alexandria,,locality,,29.925521,31.2141
-"56",,Europe,Lusitania,La Cocosa,Villa de La Cocosa,,wrong,,0,0
-"59",,Italy,Campania,Massa Lubrense,,Region I,rough,,14.33372498,40.60355938
-"61",,Europe,Gallia Aquitania,Montmaurin,Villa of Lasalles,,Verified,,0.645487,43.216435
-"82",,Europe,Achaia,Sikyon,Sanctuary of Demeter and Persephone,,verified,,22.712222,37.984037
-"84",,Italy,Latium,Sperlonga,,Region I,verified,,13.46288681,41.24231993
-"93",,Italy,Villa Adriana,Terraced garden,,Region IV,rough,,12.77243793,41.94337219
-"95",,Africa,Aegyptus,Theadelphia,Fayum,,locality,,30.516667,29.35
-"101",,Europe,Gallia Lugdunensis,Vaise,House with Xenia,,,,0,0
-"102",,Europe,Gallia Narbonensis,Vasio Voncontorium,Sanctuary with Porticoes,,,,0,0
-"103",,Europe,Gallia Belgica,Weitersbach,Rural Villa,,,,0,0
-"104",,Italy,Cosa,,,Region VII,rough,,11.2877,42.4126
-"105",,Asia,Hellespontus,,,,,,0,0
-"106",,Asia,Galatia-Cappodocia,,,,,,0,0
-"107",,Asia,Cilicia,,,,,,0,0
-"108",,Asia,Bithynia,,,,,,0,0
-"109",,Asia,Armenia,,,,,,0,0
-"110",,Europe,Raetia,,,,,,0,0
-"111",,Europe,Moesia,,,,,,0,0
-"112",,Africa,Cyrene,,,,,,0,0
-"113",,Italy,Tivoli,,,Region IV,verified,,12.7971,41.96566
-"114",,Italy,Spinazzola,,,Region II,rough,,16.086,40.9659
-"115",,Europe,"Alpes Cottiae, Maritimiae, Poeniae",,,,,,0,0
-"116",,Asia,Paphlagonia,,,,,,0,0
-"117",,Europe,Lycaonia,,,,,,0,0
-"118",,Europe,Thracia,,,,,,0,0
-"119",,Asia,Mesopotamia,,,,,,0,0
-"120",,Asia,Lycia,,,,,,0,0
-"121",,Europe,Sardinia,,,,,,0,0
-"122",,Italy,Tomb Garden of Valeria Athenais,,,Region IV,rough,,12.7882,41.9593
-"273","324653",Africa,Africa Proconsularis,Acholla,House of the Triumph of Neptune,,,,11.0261615,35.103997
-"274","324653",Africa,Africa Proconsularis,Acholla,House of Asinus Rufinus,,locality,,11.0261615,35.103997
-"650",,Europe,Achaia,Aegina,Temple Grove,,verified,,23.51898193,37.7392273
-"754",,Europe,Silicia,Agrigento,Villa Durrueli di Realmonte,,,,0,0
-"770",,Europe,Hispania Tarraconensis,Aguilafuente,Villa of Sta. Lucia,,locality,,-4.08525109,41.2160051
-"772","187265",Europe,Noricum,Aguntum,Urban House,,,,12.8228592,46.8274616
-"841",,Europe,Gallia Narbonensis,Ain,Tomb Garden of M. R. Catullus,,,,0,0
-"966",,Europe,Hispania Tarraconensis,Alameda,Funerary Grove of T.A. Vetus,,close,,-3.87698561,38.60877848
-"967",,Europe,Hispania Baetica,Alameda,Villa del Cortijo de los Vila,,locality,,-4.657951,37.21646279
-"995","167629",Europe,Gallia Narbonensis,Alba Helviorum,Baths of La Planchette,,Verified,,4.59887803,44.56058911
-"996","167629",Europe,Gallia Narbonensis,Alba Helviorum,"Sainte-Pierre, House",,Verified,,4.59873319,44.56132679
-"997","167629",Europe,Gallia Narbonensis,Alba Helviorum,Les Basaltes House A,,Verified,,4.59828258,44.56029862
-"998","167629",Europe,Gallia Narbonensis,Alba Helviorum,"Le Pinard, House A",,Verified,,4.60074484,44.55855185
-"999","167629",Europe,Gallia Narbonensis,Alba Helviorum,"Le Pinard, House B",,Verified,,4.60075021,44.55871238
-"1000","167629",Europe,Gallia Narbonensis,Alba Helviorum,Area with Porticoes A,,Verified,,4.60009575,44.56130386
-"1001","167629",Europe,Gallia Narbonensis,Alba Helviorum,Villa of Le Plaine,,Approximate,,4.60525632,44.5635092
-"1002","167629",Europe,Gallia Narbonensis,Alba Helviorum,Area with Porticoes B,,Verified,,4.60073411,44.5619498
-"1003",,Europe,Hispania Tarraconensis,Albaladejo,Villa en Puente de la Olmilla,,locality,,-2.7652778,38.6027778
-"1156",,Europe,Hispania Baetica,Almedinilla,Villa el Ruedo,,close,,-4.08942997,37.44311096
-"1201",,Europe,Hispania Tarraconensis,Altafulla,Villa de Els Munts,,locality,,1.38580084,41.13602341
-"1206","324664",Africa,Africa Proconsularis,Althiburos,House of the Muses,,,,8.831793,35.94384
-"1207","324664",Africa,Africa Proconsularis,Althiburos,House of the Fishing Scene,,,,8.831793,35.94384
-"1208","324664",Africa,Africa Proconsularis,Althiburos,House of the monument of Asklepieia,,locality,,8.831793,35.94384
-"1426",,Europe,Gallia Narbonensis,Andance,Villa de Chateau Pipet,,,,0,0
-"1437",,Europe,Germania Superior,Andematunnum,Tomb garden of anonymous,,,,5.335214,47.864221
-"1569",,Asia,Syria,Antioch,Private Houses,,,,0,0
-"1692","648565",Asia,Asia,Aphrodisias,?,,verified,,28.723535,37.709163
-"1693",,Asia,Asia,Aphrodisias,?,,verified,,28.723535,37.709163
-"1694","648565",Asia,Asia,Aphrodisias,?,,verified,,28.723535,37.709163
-"1695","648565",Asia,Asia,Aphrodisias,?,,verified,,28.723535,37.709163
-"1704",,Africa,Aegyptus,Aphrodite Nome,Upper Nile Valley,,"approximate; right area",,31.39106,26.875369
-"1907",,Europe,Gallia Narbonensis,Aquae Sextiae,"Jardins de Grassi, House with large peristyle",,Verified,,5.4445678,43.53323879
-"1908",,Europe,Gallia Narbonensis,Aquae Sextiae,"Enclos Reynaud, house with pool",,Approximate,,5.44134915,43.53269432
-"1909",,Europe,Gallia Narbonensis,Aquae Sextiae,"Enclos Reynaud, house with semicircular bay",,Approximate,,5.44127941,43.53272154
-"1910",,Europe,Gallia Narbonensis,Aquae Sextiae,"Enclos Milhaud, house with large peristyle",,Verified,,5.44147253,43.53238708
-"1911",,Europe,Gallia Narbonensis,Aquae Sextiae,House under Pasteur,,Verified,,5.44617981,43.53399132
-"1912",,Europe,Gallia Narbonensis,Aquae Sextiae,"Enclos Reynaud, house with opus sectile",,Approximate,,5.44139743,43.53274488
-"1939","197130",Europe,Pannonia,Aquincum,Urban House,,,,19.049522,47.564075
-"1984",,Europe,Germania Superior,Arae Flaviae,Large building,,,,8.627925,48.166687
-"2027",,Europe,Gallia Narbonensis,Arausio,House with polychrome mosaic,,,,0,0
-"2028",,Europe,Gallia Narbonensis,Arausio,House on Cours Portoules,,,,0,0
-"2029",,Europe,Gallia Narbonensis,Arausio,Sururban villa de la Brunette,,,,0,0
-"2030",,Europe,Gallia Narbonensis,Arausio,House of Mosaic with Menander,,,,0,0
-"2031",,Europe,Gallia Narbonensis,Arausio,House of Clodius,,,,0,0
-"2089",,Italy,Villas near Tivoli,Arcinelli's Villa,,Region IV,locality,,12.794,41.9203
-"2092",,Europe,Hispania Baetica,Arcos de la Frontera,Villa el Santiscal,,verified,,-5.77183619,36.7655691
-"2115",,Europe,Gallia Narbonensis,Arelate,Trinquetaille House 1,,,,0,0
-"2116",,Europe,Gallia Narbonensis,Arelate,House under Credit Agricole,,,,0,0
-"2350",,Africa,Aegyptus,Arsinoite Nome,Fayum,,,,0,0
-"2661",,Europe,Achaia,Athens,Altar of 12 Gods,,verified,,23.722662,37.97572
-"2662",,Europe,Achaia,Athens,Temple of Hephaistos,,verified,,23.721409,37.975646
-"2663",,Europe,Achaia,Athens,Hadrian's Library,,verified,,23.725995,37.975531
-"2664",,Europe,Achaia,Athens,Omega House,,,,0,0
-"2665",,Europe,Achaia,Athens,Gardens of Epicurus,,,,0,0
-"2666",,Europe,Achaia,Athens,Gymnasia and groves,,verified,,23.743349,37.974031
-"2667",,Europe,Achaia,Athens,Palace of Giants,,verified,,23.722431,37.974611
-"2668",,Europe,Achaia,Athens,Houses near Areopagus,,verified,,23.727201,37.970633
-"2766",,Europe,Lusitania,Augusta Emerita,House of Amphitheater,,wrong,,0,0
-"2767",,Europe,Lusitania,Augusta Emerita,House in Alcazaba,,wrong,,0,0
-"2768",,Europe,Lusitania,Augusta Emerita,House of Theater,,wrong,,0,0
-"2769",,Europe,Lusitania,Augusta Emerita,House of hill garden,,unknown,,0,0
-"2770",,Europe,Lusitania,Augusta Emerita,House of mithraeum,,wrong,,0,0
-"2771",,Europe,Lusitania,Augusta Emerita,Peristyle of Theater,,wrong,,0,0
-"2772",,Europe,Lusitania,Augusta Emerita,Houses of Museum,,wrong,the location is a museum now,0,0
-"2773",,Europe,Lusitania,Augusta Emerita,Temple of Diana,,wrong,,0,0
-"2776",,Europe,Germania Superior,Augusta Raurica,House in insula 1 and 2,,,,0,0
-"2777",,Europe,Germania Superior,Augusta Raurica,"House, insula 30",,,,0,0
-"2794","138203",Europe,Gallia Aquitania,Augustoritum,Opus Sectile and House of Opus Quadratum,,Approximate,,1.26466691,45.82834696
-"2795","138203",Europe,Gallia Aquitania,Augustoritum,House of Five Mosaics,,Approximate,,1.26454353,45.82865721
-"2796","138203",Europe,Gallia Aquitania,Augustoritum,House of Opus Sectile,,Approximate,,1.26447916,45.8283507
-"2797","138203",Europe,Gallia Aquitania,Augustoritum,"House 35, Insula VII-5",,Approximate,,1.26439333,45.8284591
-"2798","138203",Europe,Gallia Aquitania,Augustoritum,House with Aquatic décor,,Approximate,,1.25611067,45.82863478
-"2799","138203",Europe,Gallia Aquitania,Augustoritum,House with Small viridarium,,Approximate,,1.26450598,45.82857871
-"2800","138203",Europe,Gallia Aquitania,Augustoritum,House in Rue de Clairettes,,Verified,,1.25501633,45.82912819
-"2801","138203",Europe,Gallia Aquitania,Augustoritum,House of Large Vestibule,,Approximate,,1.26437187,45.82836939
-"2802","138203",Europe,Gallia Aquitania,Augustoritum,House in rue de Vigne de fer,,Verified,,1.25817865,45.82775822
-"2803","138203",Europe,Gallia Aquitania,Augustoritum,House of Nones of March,,Verified,,1.26244068,45.824164
-"2814","579889",Europe,Achaia,Aulis,Sanctuary of Artemis,,verified,,22.435118,37.082874
-"2886","108778",Europe,Gallia Lugdunensis,Autricum,Domus of Place des Epars,,Verified,,1.48392677,48.4442765
-"2907",,Europe,Germania Superior,Aventicum,"House, insula 16",,,,0,0
-"2908",,Europe,Germania Superior,Aventicum,"Palatial House, Insula 7",,,,0,0
-"2909",,Europe,Germania Superior,Aventicum,"House, Insula 13",,,,0,0
-"2999",,Europe,Gallia Belgica,Bad Durkheim-Ungstein,Rural Villa,,,,0,0
-"3006",,Europe,Germania Superior,Bad Kreuznach,Rural Villa,,,,0,0
-"3016",,Europe,Hispania Baetica,Baelo Claudia,West House,,locality,,-5.77540487,36.08845573
-"3017",,Europe,Hispania Baetica,Baelo Claudia,House of Sundial,,locality,,-5.77532977,36.08843839
-"3049",,Italy,Campania,Baiae,,Region I,verified,,14.0683355,40.8181965
-"3050","658394",Italy,Campania,Baiae,,Region I,verified,,14.06850815,40.81835627
-"3143",,Europe,Britannia,Bancroft,Rural Villa,,,,-0.794662,52.055309
-"3188",,Europe,Hispania Tarraconensis,Barcino,House of Condes de Barcelona St.,,unknown,can't find,2.173611,41.385
-"3296",,Asia,Syria,Batnae,Imperial Residence,,,,38.424374,36.9763845
-"3382",,Europe,Hispania Baetica,Benalmadena-Costa,villa?,,,,0,0
-"3390",,Europe,Gallia Aquitania,Beneharnum,Villa de Saint-Michel,,Verified,,-0.42248011,43.32886149
-"3598","138227",Europe,Gallia Aquitania,Blacciacum,Villa de Plassac,,Verified,,-0.6460765,45.101925
-"3701",,Europe,Gallia Belgica,Borg,Villa Borg,,Verified,,6.4576757,49.4966815
-"3721","432723",Italy,Campania,Boscoreale,,Region I,verified,,14.4732795,40.76841
-"3722","432724",Italy,Campania,Boscotrecase,,Region I,verified,,14.463003,40.775369
-"3864",,Europe,Gallia Narbonensis,Briord,Tomb garden,,,,0,0
-"3904",,Italy,Villas near Tivoli,Brutus' Villa,,Region IV,locality,,12.8041,41.9343
-"3928",,Italy,Villa Adriana,Building east of Inferi Nymphaeum,,Region IV,locality,,12.78088152,41.93819285
-"4034",,Asia,Iudaea,Caesarea Maritima,Praetorium,,,,0,0
-"4035",,Asia,Iudaea,Caesarea Maritima,Herod's Promontory Palace,,,,0,0
-"4060",,Europe,Hispania Tarraconensis,Calafell,Vilarenc,,unknown,the coordinates in GRE are wrong / can't find,1.5699935,41.19155682
-"4153",,Europe,Britannia,Camulodunum,Suburban gardens,,,,0.904605,51.887409
-"4212",,Italy,Villas near Tivoli,Capito's Villa,,Region IV,,,0,0
-"4229",,Italy,Campania,Capri,,Region I,rough,,14.227,40.5501
-"4236","432754",Italy,Campania,Capua,,Region I,verified,,14.250207,41.0860925
-"4336",,Africa,Africa Proconsularis,Carthage,House of the Cryptoportico,,,,0,0
-"4337",,Africa,Africa Proconsularis,Carthage,House of Dionysos,,,,0,0
-"4338",,Africa,Africa Proconsularis,Carthage,House of the Aviary,,verified,,10.3314221,36.857911
-"4369",,Italy,Latium,Cassino,,Region I,rough,,13.83247375,41.48029018
-"4372",,Italy,Villas near Tivoli,Cassius' Villa,,Region IV,locality,,12.8137,41.9316
-"4373",,Europe,Gallia Aquitania,Castelculier,Villa Lamarque,,Verified,,0.69766402,44.17592922
-"4503",,Europe,Gallia Narbonensis,Caumont-sur-Durance,Villa of St. Symphorien,,,,0,0
-"4509",,Europe,Gallia Narbonensis,Cavalaire-sur-Mer,Villa de Pardigon,,,,0,0
-"4768",,Europe,Britannia,Chester,Tomb painting?,,,,-2.887628,53.188456
-"4900",,Africa,Numidia,Cirta,Tomb garden,,,,6.6136765,36.3680785
-"4981","187350",Europe,Hispania Tarraconensis,Clunia,House of Taracena,,close,,-3.37100029,41.78117698
-"4982",,Africa,Africa Proconsularis,Clupea,Villa with Bust,,,,0,0
-"4983",,Africa,Africa Proconsularis,Clupea,House of the Two Hunts,,,,0,0
-"5113",,Europe,Gallia Belgica,Colonia Augusta Treverorum,Urban House,,,,0,0
-"5117",,Europe,Germania Inferior,Colonia Claudia Ara Agrippinensium,House Gertrudenstrasse,,,,6.959908,50.940671
-"5118",,Europe,Germania Inferior,Colonia Claudia Ara Agrippinensium,House Wolfstrasse,,,,6.959908,50.940671
-"5119",,Europe,Germania Inferior,Colonia Claudia Ara Agrippinensium,House Lungenstrasse,,,,6.959908,50.940671
-"5120",,Europe,Germania Inferior,Colonia Claudia Ara Agrippinensium,Atrium House,,,,6.959908,50.940671
-"5121",,Europe,Germania Inferior,Colonia Claudia Ara Agrippinensium,House of Dionysos,,,,6.959908,50.940671
-"5140",,Europe,Hispania Baetica,Colonia Patricia Corduba,Fountain statues,,unknown,likely to be museum collection,-4.7749114,37.88147573
-"5141",,Europe,Hispania Baetica,Colonia Patricia Corduba,Fountain,,unknown,discovery spot is unknown. under Cordoba section in GRE,-4.77492213,37.88150749
-"5144",,Europe,Germania Inferior,Colonia Ulpia Traiana,"Houses, Insula 27",,,,0,0
-"5222","236443",Europe,Lusitania,Conimbriga,House of skeleton,,,,-8.49416375,40.09902645
-"5223","236443",Europe,Lusitania,Conimbriga,House of the Fountains,,,,-8.49416375,40.09902645
-"5224","236443",Europe,Lusitania,Conimbriga,House of the Cantabar,,,,-8.49416375,40.09902645
-"5225","236443",Europe,Lusitania,Conimbriga,House of swastika mosaic,,Verified,,-8.49416375,40.09902645
-"5290",,Europe,Achaia,Corinth,Circus,,,,0,0
-"5307",,Europe,Pannonia,Cornuntum,Urban Houses,,,,0,0
-"5346",,Italy,Villa Adriana,Courtyard in Republican Villa,,Region IV,verified,,12.77686894,41.94194373
-"5384",,Europe,Hispania Tarraconensis,Cuevas de Sona,Villa Dehesa de Soria,,close,,-2.62084812,41.66920126
-"5533",,Asia,Syria,Daphne,Temple of Apollo,,,,29.001901,41.043598
-"5534","678110",Asia,Syria,Daphne,Temple of Apollo,,,,35.639166,33.230128
-"5535","658450",Asia,Syria,Daphne,Temple of Apollo,,,,36.142802,36.130422
-"5558",,Europe,Britannia,Darenth,Rural Villa,,,,0.282782,51.434364
-"5574","511226",Asia,Phrygia,Daskyleion,Satrapal Estate,,,,28.674196,40.377645
-"5575",,Asia,Phrygia,Daskyleion,Satrapal Estate,,,,28.062536,40.138708
-"5653",,Europe,Achaia,Delos,Kitchen/Commercial gardens,,,,25.2681308984756,37.3955779434277
-"5654",,Europe,Achaia,Delos,Kitchen/Commercial gardens,,,,25.271111,37.393333
-"5655",,Europe,Achaia,Delos,Peristyle gardens,,,,25.2681362628937,37.3955779434277
-"5656",,Europe,Achaia,Delos,Peristyle gardens,,,,25.2711188793182,37.3933372561952
-"5657",,Europe,Achaia,Delos,Agora of Italians,,verified,,25.26761055,37.40178397
-"5658",,Europe,Achaia,Delos,Agora of Italians,,verified,,25.26761055,37.40180101
-"5750",,Asia,Asia,Didyma,Temple Grove,,verified,,27.256115,37.384829
-"5758",,Europe,Gallia Narbonensis,Die,Tomb garden of P. Calistus,,,,0,0
-"5761",,Europe,Germania Superior,Dietikon,Rural Villa,,,,0,0
-"5820",,Africa,Aegyptus,Dionysias,Fayum,,close,,30.417435,29.40642
-"5863",,Europe,Gallia Belgica,Divodurum Mediomatricorum,Villa de Larry,,,,0,0
-"5864",,Europe,Gallia Belgica,Divodurum Mediomatricorum,House of the Arsenal,,,,0,0
-"5865",,Europe,Gallia Belgica,Divodurum Mediomatricorum,Villa des Rouaux,,,,0,0
-"6022","108945",Europe,Gallia Belgica,Durocortorum,House of the Ram,,Approximate,,4.03293729,49.25408102
-"6023","108945",Europe,Gallia Belgica,Durocortorum,House aux Fleurons,,Approximate,,4.04052258,49.25461323
-"6024","108945",Europe,Gallia Belgica,Durocortorum,House on Rue des Capucins,,Approximate,,4.03305531,49.25387794
-"6088",,Europe,Britannia,Eccles,Rural Villa,,,,0.465263,51.320276
-"6098",,Europe,Gallia Belgica,Echternach,Rural Villa,,,,0,0
-"6119",,Europe,Hispania Baetica,Egabrum,House of the Mithra,,locality,,-4.45918322,37.48774811
-"6143",,Asia,Iudaea,Ein Gedi,Balsam Groves,,,,0,0
-"6154",,Europe,Pannonia,Eisenstadt,Rural Villa,,,,0,0
-"6285","246382",Europe,Hispania Tarraconensis,Emporiae,House R2,,Verified,,3.11799288,42.13388454
-"6286","246382",Europe,Hispania Tarraconensis,Emporiae,N7 domus H,,Verified,,3.12029421,42.13456082
-"6287","246382",Europe,Hispania Tarraconensis,Emporiae,House of the Mosaic,,Verified,,3.12006623,42.13525102
-"6288","246382",Europe,Hispania Tarraconensis,Emporiae,House of L-shaped cistern,,Verified,,3.12019229,42.13566772
-"6289","246382",Europe,Hispania Tarraconensis,Emporiae,House of Peristyle,,Verified,,3.12116325,42.1347836
-"6290","246382",Europe,Hispania Tarraconensis,Emporiae,Casa Villanueve,,Verified,,3.11742425,42.13449718
-"6306",,Europe,Silicia,Enna,Villa near Piazza Armerina,,,,14.279558,37.567652
-"6316",,Italy,Villa Adriana,Entrance to Villa,,Region IV,rough,,12.77430475,41.94293727
-"6337",,Asia,Asia,Ephesus,Terrace Houses,,verified,,27.3517645,37.9445239
-"6345","570228",Europe,Achaia,Epidauros,Sanctuary of Hyrnetho,,verified,,23.15963835,37.6337759
-"6479",,Europe,Lusitania,Estoi,Villa Milreu,,wrong,,0,0
-"6494",,Europe,Achaia,Eua,Villa of Herodes Atticus,,verified,,22.656854,37.377923
-"6527",,Africa,Aegyptus,Euhemeria,Fayum,,locality,,30.55,29.383333
-"6636",,Europe,Gallia Aquitania,Fauroux,Sas-de-Marty,,Approximate,,1.024615,44.246651
-"6696",,Europe,Britannia,Fishbourne,Villa,,,,-0.809805,50.83652
-"6710","197273",Europe,Noricum,Flavia Solva,"Urban House, Insula 9",,,,15.562997,46.767482
-"6717",,Europe,Gallia Belgica,Fliessem-Otrang,Rural Villa,,,,0,0
-"6762","187386",Europe,Gallia Narbonensis,Forum Iulii,Edifice of St. Antoine's Mound,,,,13.4333385,46.091866
-"6763","187386",Europe,Gallia Narbonensis,Forum Iulii,Edifice of Platform,,,,13.4333385,46.091866
-"6764","187386",Europe,Gallia Narbonensis,Forum Iulii,House on Formige Square,,,,13.4333385,46.091866
-"6765","187386",Europe,Gallia Narbonensis,Forum Iulii,"Tower Enclosure, House IIIA",,,,13.4333385,46.091866
-"6802",,Europe,Hispania Tarraconensis,Fraga,Villa of Fortunatas,,,,0,0
-"6816",,Europe,Germania Superior,Friedberg-Pfingstweide,Rural Villa,,,,0,0
-"6824",,Europe,Britannia,Frocester Court,Rural Villa,,,,-2.308958,51.723816
-"6846",,Italy,Parma,Funerary gardens of C. Praeconius,,Region VIII,locality,,10.3254,44.7992
-"6847",,Italy,Aquileia,Funerary Grove of C. Chryseros,,Region X,locality,,13.3748,45.77
-"6970",,Italy,Villa Adriana,Garden area under Temple of Venus of Cnidus,,Region IV,rough,,12.77485192,41.94459315
-"6971",,Italy,Villa Adriana,Garden between nymphaeum and praetorium,,Region IV,verified,,12.777282,41.94061498
-"6972",,Italy,Villa Adriana,Garden in belvedere of Temple of Venus of Cnidus,,Region IV,rough,,12.77479827,41.94464901
-"6973",,Italy,Villa Adriana,Garden in nymphaeum,,Region IV,verified,,12.7786150574684,41.9409940573613
-"6974",,Italy,Villa Adriana,Garden in Piazza d'Oro,,Region IV,verified,,12.77827978,41.94130529
-"6975",,Italy,Villa Adriana,Garden in Throne Hall,,Region IV,site,,12.77756095,41.94223102
-"6976",,Italy,Villa Adriana,Garden in Valley of Tempe,,Region IV,verified,,12.7785801887512,41.9439866626499
-"6977",,Italy,Villa Adriana,Garden of Antinous' tomb,,Region IV,verified,,12.7737307548523,41.9408743502282
-"6978",,Italy,Villa Adriana,Garden of inferi nymphaeum,,Region IV,rough,,12.77956188,41.9380891
-"6979",,Italy,Villa Adriana,Garden of the Tomb,,Region IV,locality,,12.77839243,41.93980496
-"6980",,Italy,Villa Adriana,Garden of triclinium north of maritime theater,,Region IV,verified,,12.77567267,41.94259811
-"6981",,Italy,Villa Adriana,Garden on eastern side of Republican Villa,,Region IV,verified,,12.7781564,41.94269387
-"6982",,Italy,Villa Adriana,Gardens between the small baths and the three exedrae hall,,Region IV,verified,,12.77511477,41.94087435
-"6983",,Italy,Villa Adriana,Garden Terrace,,Region IV,rough,,12.77178884,41.94263402
-"6984",,Italy,Villa Adriana,Garden under the library terrace,,Region IV,verified,,12.776021361351,41.9430210640252
-"7012",,Europe,Britannia,Gatcombe,Rural Villa,,,,-2.147368,51.826783
-"7080","177528",Europe,Gallia Narbonensis,Genava,Urban House,,Approximate,,6.14386126,46.20195951
-"7081","177528",Europe,Gallia Narbonensis,Genava,Suburban Villa,,Approximate,,6.16736412,46.20733912
-"7169","344380",Africa,Africa Proconsularis,Gigthis,Suburban villa,,very close,,10.6741511821747,33.5327112170868
-"7174",,Europe,Gallia Narbonensis,Gilly-sur-Isere,Villa du Grand Verger,,,,0,0
-"7250",,Asia,Phrygia,Gordion,Midas' Tomb,,,,31.97857,39.650103
-"7259",,Europe,Britannia,Gorhambury,Rural Villa,,,,-0.358136,51.754095
-"7317",,Italy,Sirmio,Grotto of Catullus,,Region VIII,verified,,10.6069028377533,45.5012412055084
-"7411",,Africa,Africa Proconsularis,Hadrumetum,House of the Masks,,,,10.63878,35.825866
-"7412",,Africa,Africa Proconsularis,Hadrumetum,House of Vergil,,close,,10.63878,35.825866
-"7454",,Asia,Asia,Halicarnassus,Mausoleon,,verified,,27.424385,37.038046
-"7694",,Italy,Campania,Herculaneum,,Region I,rough,,14.348058,40.805843
-"7753",,Asia,Iudaea,Herodium,Lower Terrace,,,,35.24080396,31.66526697
-"7754",,Asia,Iudaea,Herodium,Fortress Palace,,,,35.2418,31.6657
-"7799",,Asia,Asia,Hierapolis,Tomb Gardens,,verified,,29.125833,37.925
-"7802",,Asia,Asia,Hierapolis,Tomb Gardens,,verified,,29.125833,37.925
-"7803",,Asia,Asia,Hierapolis,Tomb Gardens,,verified,,29.125833,37.925
-"7804","638860",Asia,Asia,Hierapolis,Tomb Gardens,,verified,,29.125833,37.925
-"7805","638860",Asia,Asia,Hierapolis,Tomb Gardens,,verified,,29.125833,37.925
-"7806","638860",Asia,Asia,Hierapolis,Tomb Gardens,,verified,,29.125833,37.925
-"7807","609403",Asia,Asia,Hierapolis,Tomb Gardens,,verified,,29.125833,37.925
-"7871","305090",Africa,Africa Proconsularis,Hippo Regius,Villa of the Sea Front,,,,7.751272,36.882478
-"7919",,Italy,Villas near Tivoli,Horace's Sabine Villa,,Region IV,,,0,0
-"7921",,Africa,Africa Proconsularis,Horea Caelia,House of the Two Peristyles,,verified,,10.517062,36.023752
-"7941",,Asia,Arabia Petraea,Humeima,Shrine,,,,0,0
-"7942",,Europe,Germania Superior,Hummetroth,Rural Villa,,,,0,0
-"8315",,Africa,Mauretania Caesariensis,Iol (Caesarea),House of the Tennis Club,,,,0,0
-"8316",,Africa,Mauretania Caesariensis,Iol (Caesarea),House of the Two Pools,,,,0,0
-"8317",,Africa,Mauretania Caesariensis,Iol (Caesarea),Inscription,,,,0,0
-"8318",,Africa,Mauretania Caesariensis,Iol (Caesarea),House of Jonchee,,verified,,2.458699,36.594593
-"8319",,Africa,Mauretania Caesariensis,Iol (Caesarea),House of the Cap Tizerine,,,,0,0
-"8320",,Africa,Mauretania Caesariensis,Iol (Caesarea),House of Kaid Youcef's Estate,,,,0,0
-"8470","570316",Europe,Achaia,Isthmia,Sanctuary of Poseidon,,verified,,22.99296856,37.91579734
-"8485","256231",Europe,Hispania Baetica,Italica,House of the hidden path,,close,,-6.04314566,37.44126035
-"8486","256231",Europe,Hispania Baetica,Italica,collegium exedra,,close,,-6.04507148,37.44268292
-"8487","256231",Europe,Hispania Baetica,Italica,theater,,close,,-6.03861809,37.44013591
-"8488","256231",Europe,Hispania Baetica,Italica,Public square,,close,,-6.04551405,37.44291717
-"8489","256231",Europe,Hispania Baetica,Italica,House of the triclinium,,locality,,-6.04464233,37.44024239
-"8490","256231",Europe,Hispania Baetica,Italica,House of the Birds,,close,,-6.0444814,37.44178849
-"8578",,Asia,Syria,Jebel Khalid,Governor's Palace,,,,0,0
-"8581",,Asia,Iudaea,Jericho,Hasmonean Palaces,,,,35.443876,31.8700465
-"8582",,Asia,Iudaea,Jericho,Hasmonean Palaces,,,,35.443876,31.8700465
-"8592",,Europe,Gallia Aquitania,Jurancon,Villa at Pont d'Oly,,Approximate,,-0.388289,43.268539
-"9464",,Asia,Asia,Kos,Sanctuary of Asklepios,,verified,,27.257364,36.875375
-"9465","736946",Asia,Asia,Kos,Sanctuary of Asklepios,,verified,,27.257364,36.875375
-"9500","707549",Asia,Cyprus,Kourion,Sanctuary of Apollo Hylates,,,,32.883723,34.6662275
-"9643",,Europe,Achaia,Kyrtonos,Sanctuaries of Apollo and Nymphs,,verified,,22.501117,38.482272
-"9662",,Europe,Gallia Aquitania,Labastide-d'Aramagnac,Villa of Geou,,Approximate,,-0.197198,43.959757
-"9750",,Europe,Gallia Aquitania,Lalonquette,Villa de l'Arribera deus Gleisiars,,Verified,,-0.310846,43.502846
-"9808","422956",Italy,Latium,Lanuvium,,Region I,site,,12.697593,41.674703
-"9868",,Europe,Lusitania,Las Tiendas,Villa el Hinojal,,wrong,,0,0
-"9874",,Europe,Britannia,Latimer,rural Villa,,,,-0.558331,51.676592
-"9917",,Europe,Lusitania,Lavra,Fontao Villa,,wrong,,0,0
-"10089",,Italy,Villa Adriana,Library peristyle,,Region IV,verified,,12.77635932,41.94261407
-"10111",,Europe,Hispania Tarraconensis,Liedena,Villa Romana,,,,0,0
-"10253",,Europe,Gallia Narbonensis,Loupian,Villa des Pres-Bas,,,,0,0
-"10281","413184",Italy,Latium,Lucus Feroniae,Villa of the V. Saturnini,Region I,verified,,12.60062903,42.13331567
-"10282","413184",Italy,Latium,Lucus Feroniae,Villa of the V. Saturnini,Region I,verified,,12.60065317,42.133256
-"10283","413184",Italy,Latium,Lucus Feroniae,,Region I,verified,,12.59509563,42.13145783
-"10284","413184",Italy,Latium,Lucus Feroniae,,Region I,verified,,12.5960478186607,42.1299440733092
-"10285","413184",Italy,Latium,Lucus Feroniae,Unnamed Villa,Region I,site,,12.60007381,42.13199092
-"10286","413184",Italy,Latium,Lucus Feroniae,Unnamed Villa,Region I,site,,12.59646893,42.12981478
-"10287","413184",Italy,Latium,Lucus Feroniae,Villa della Standa,Region I,rough,,12.59659767,42.13063034
-"10288","413184",Italy,Latium,Lucus Feroniae,Villa della Standa,Region I,rough,,12.5966700911522,42.1294825785679
-"10292","99003",Europe,Gallia Lugdunensis,Lugdunum,House with Pilasters,,Verified,,4.81642127,45.76016184
-"10293","99003",Europe,Gallia Lugdunensis,Lugdunum,House of Masks,,Verified,,4.81898546,45.75954057
-"10413","324774",Africa,Africa Proconsularis,Mactaris,House of Venus,,,,9.20696465,35.85385845
-"10414","324774",Africa,Africa Proconsularis,Mactaris,House of the two Juvenes,,verified,,9.20696465,35.85385845
-"10630",,Italy,Villas near Tivoli,Manilius Vopiscus' Villa,,Region IV,rough,,12.811,41.9511
-"10798",,Europe,Gallia Narbonensis,Martres Tolosane,Villa Chiragan,,,,0,0
-"10806","687968",Asia,Iudaea,Masada,Herod's Palaces,,,,35.35382385,31.3212033
-"10928","109153",Europe,Gallia Lugdunensis,Mediolanum Aulercorum,House on Rue de la Harpe,,Verified,,1.15116924,49.02281244
-"10951",,Europe,Achaia,Megalopolis,Sanctuary of Zeus,,verified,,22.12764502,37.41303341
-"10952",,Europe,Achaia,Megalopolis,Sanctuary of Zeus,,verified,,22.12764502,37.41303341
-"11134",,Europe,Silicia,Messina,Villa Castroreale San Biagio,,,,0,0
-"11268","432941",Italy,Campania,Misenum,,Region I,verified,,14.084884,40.786279
-"11302",,Europe,Gallia Narbonensis,Modene,Cemetery of the Combe,,,,0,0
-"11351",,Europe,Gallia Aquitania,Moncrabeau,Villa de Bapteste,,Verified,,0.38842678,44.05928081
-"11356",,Europe,Lusitania,Monforte,Villa de Torre de Palma,,wrong,,0,0
-"11374",,Europe,Gallia Aquitania,Montmaurin,Villa of Hillere,,Verified,,0.649184,43.225761
-"11375",,Europe,Gallia Aquitania,Montreal,Villa de Seviac,,Verified,,0.181948,43.943824
-"11485","256318",Europe,Hispania Baetica,Munigua,Sanctuary,,close,,-5.740734,37.713343
-"11583",,Asia,Asia,Mytilene,Rural Estates,,wrong,,0,0
-"11656",,Europe,Gallia Narbonensis,Narbo Martius,"Clos de la Lombarde, House III",,,,0,0
-"11657",,Europe,Gallia Narbonensis,Narbo Martius,House with Porticoes,,,,0,0
-"11747",,Africa,Africa Proconsularis,Neapolis,Nympharum Domus',,verified,,10.741166,36.45043
-"11763",,Europe,Germania Inferior,Neerharen-Rekem,Rural Villa,,,,0,0
-"11783","148142",Europe,Gallia Narbonensis,Nemausus,House of Fountain,,Verified,,4.35166955,43.841244
-"11784","148142",Europe,Gallia Narbonensis,Nemausus,"Quarter of Benedictines, House B",,Verified,,4.35294628,43.84133686
-"11786","148142",Europe,Gallia Narbonensis,Nemausus,"Quarter of Benedictines, House C",,Verified,,4.35394406,43.84139877
-"11787","148142",Europe,Gallia Narbonensis,Nemausus,House in Rue Nationale,,Verified,,4.35862452,43.83834788
-"11788","148142",Europe,Gallia Narbonensis,Nemausus,21 rue Seguier,,Approximate,,4.3670547,43.83765333
-"11789","148142",Europe,Gallia Narbonensis,Nemausus,Tomb Garden of Graptus,,Approximate,,4.3558377,43.83779649
-"11790","148142",Europe,Gallia Narbonensis,Nemausus,Avenue Jean-Jaures,,Approximate,,4.3559584,43.8378139
-"11791","148142",Europe,Gallia Narbonensis,Nemausus,"Oscilla, pots",,Verified,,4.35987711,43.83432556
-"11792","148142",Europe,Gallia Narbonensis,Nemausus,Domus de la Marseillaise,,Verified,,4.35530663,43.84178568
-"11794","570504",Europe,Achaia,Nemea,Sanctuary of Zeus,,verified,,22.7104032,37.80952119
-"11797","109194",Europe,Gallia Belgica,Nemetacum,House on Rue de la Fraternite,,Approximate,,2.77858078,50.29274167
-"11806",,Italy,Latium,Nemi?,,Region I,locality,,12.7038,41.7223
-"11809",,Europe,Gallia Belgica,Nennig,Rural Villa,,,,0,0
-"11825",,Europe,Gallia Aquitania,Nerac,Villa of La Garenne,,Approximate,,0.341231,44.138759
-"11839",,Italy,Villas near Tivoli,Nero's Villa,,Region IV,rough,,13.1074,41.9183
-"11892",,Europe,Germania Inferior,Niederzier,Hambach 69,,,,0,0
-"11893",,Europe,Germania Inferior,Niederzier,Hambach 59,,,,0,0
-"11927",,Europe,Achaia,Nikopolis,Victory Monument of Augustus,,verified,,20.7355839,39.02773551
-"11928",,Europe,Achaia,Nikopolis,Victory Monument of Augustus,,verified,,20.73557854,39.02773551
-"11929",,Europe,Achaia,Nikopolis,Victory Monument of Augustus,,verified,,20.73557854,39.02773551
-"12053",,Europe,Gallia Lugdunensis,Noyal,Villa de Chatillon-sur-Seiche,,,,0,0
-"12064",,Europe,Hispania Tarraconensis,Nules,Villa del Benicato,,,,0,0
-"12118",,Europe,Germania Superior,Oberentfelden,Rural Villa,,,,0,0
-"12234",,Europe,Lusitania,Olisipo,Tomb garden of F.M.f. Quadratus,,Approximate,,-9.135507,38.707166
-"12252","570531",Europe,Achaia,Olympia,Leonidaion,,verified,,21.62879705,37.63770117
-"12253","570531",Europe,Achaia,Olympia,Sanctuary of Zeus,,verified,,21.63025618,37.63793906
-"12254","570531",Europe,Achaia,Olympia,"Guest House I, II",,verified,,21.62802458,37.63759072
-"12255","570531",Europe,Achaia,Olympia,House of Nero,,verified,,21.6317153,37.63782012
-"12282","540984",Europe,Achaia,Onchestos,Sanctuary of Poseidon,,,,23.150267,38.373269
-"12328","432992",Italy,Campania,Oplontis,,Region I,verified,,14.45252775,40.7574734
-"12343",,Europe,Germania Superior,Orbe,Rural Villa,,,,0,0
-"12476",,Italy,Cortona,Ossaia,,Region VII,rough,,12.0052,43.2376
-"12486","422995",Italy,Latium,Ostia,,Region I,verified,,12.28963025,41.75251955
-"12487","422995",Italy,Latium,Ostia,,Region I,verified,,12.28963025,41.75251955
-"12585",,Africa,Aegyptus,Oxyrrynchite Nome,Middle Nile Valley,,locality,,30.63087,28.499934
-"12709",,Europe,Silicia,Palermo,House C,,,,12.493677,45.781212
-"12710",,Europe,Silicia,Palermo,House B,,,,12.493677,45.781212
-"12711",,Europe,Silicia,Palermo,House A,,,,12.493677,45.781212
-"12732",,Europe,Achaia,Pallene,Sanctuary of Ganymede/Heba,,,,23.8490205,38.0183985
-"12788",,Africa,Aegyptus,Panoplis,Upper Nile Valley,,locality,,31.746537,26.565077
-"12975",,Italy,Villa Adriana,Pecile garden,,Region IV,verified,,12.77408481,41.9418719
-"12991",,Europe,Hispania Tarraconensis,Pedrosa de la Vega,La Olmeda,,,,0,0
-"13089","550812",Asia,Asia,Pergamum,Palace Peristyle,,verified,,27.183855,39.132695
-"13090","550812",Asia,Asia,Pergamum,Temple Grove,,verified,,27.183855,39.132695
-"13144","491691",Asia,Arabia Petraea,Petra,Pool and Garden Complex,,wrong,,34.82666015625,30.6757154041677
-"13546",,Italy,Latium,Pliny’s Laurentine Villa,,Region I,,,0,0
-"13582",,Italy,Barbariga,"Pola, Villa",,Region X,,,0,0
-"13617","433032",Italy,Campania,Pompeii,,Region I,verified,,14.49112773,40.74989042
-"13709","285503",Africa,Mauretania Tingitana,Portus Magnus,Large House,,,,-0.266018,35.807917
-"13711","285503",Africa,Mauretania Tingitana,Portus Magnus,Small House,,,,-0.266018,35.807917
-"13824",,Asia,Asia,Priene?,,,,,0,0
-"13825",,Italy,Latium,Prima Porta (?),,Region I,rough,,12.4767,42.8137
-"13826",,Italy,Latium,Prima Porta (?),Livia,Region I,verified,,12.494,42.0021
-"13952",,Europe,Gallia Narbonensis,Puissalicon,Montfau Site,,,,0,0
-"13953",,Europe,Gallia Narbonensis,Puissalicon,Villa de la Condoumine,,,,0,0
-"13964",,Africa,Africa Proconsularis,Puput,House of the black and white triclinium,,verified,,10.562846,36.392815
-"13965",,Africa,Africa Proconsularis,Puput,House of viridarium,,verified,,10.563067,36.392591
-"13972",,Italy,Campania,Puteoli,,Region I,verified,,14.12086,40.8244395
-"14056",,Europe,Hispania Baetica,Quesada,Villa Brunel,,close,,-3.07908207,37.88530956
-"14062",,Italy,Villas near Tivoli,Quintilius Varus' Villa,,Region IV,,,0,0
-"14096",,Asia,Iudaea,Ranat Hanadiv,Palatial Complex,,,,0,0
-"14216",,Europe,Germania Inferior,Rheinbach-Flerzheim,Rural Villa,,,,0,0
-"14241",,Asia,Asia,Rhodes,"Palatial House, Rhodes",,,,0,0
-"14242",,Asia,Asia,Rhodes,"Acropolis Groves, Rhodes",,verified,,28.210503,36.439895
-"14243",,Asia,Asia,Rhodes,"Acropolis Grove, Lindos",,verified,,28.087767,36.091861
-"14277",,Europe,Gallia Lugdunensis,Richebourg,Villa of Richebourg,,,,0,0
-"14280",,Europe,Hispania Tarraconensis,Rielves,Baths' of Rielves,,,,0,0
-"14288",,Europe,Hispania Tarraconensis,Rioseca di Sona,Villa los Quintanares,,,,0,0
-"14316",,Italy,Latium,Roman Gardens known from Writing,,Region I,,,0,0
-"14317",,Italy,Latium,Rome,,Region I,verified,,12.4791169166565,41.8993862926604
-"14318",,Italy,Latium,Rome,Palatine,Region I,verified,,12.4876999855041,41.8876143253802
-"14319",,Italy,Latium,Rome,Divorum,Region I,rough,,12.47802258,41.89469853
-"14320",,Italy,Latium,Rome,Musaerum,Region I,,,12.4868738651276,41.8912244130246
-"14321",,Italy,Latium,Rome,Mausoleum of Augustus,Region I,verified,,12.47642398,41.90603003
-"14322",,Italy,Latium,Rome,Porticus Liviae,Region I,rough,,12.49957681,41.89555305
-"14323",,Italy,Latium,Rome,Forum Romanum,Region I,verified,,12.48532891,41.89208697
-"14324",,Italy,Latium,Rome,Aedes Atrium,Region I,verified,,12.4862033128738,41.8917255760999
-"14325",,Italy,Latium,Rome,Templum Divi Claudii,Region I,rough,,12.4930644,41.88838907
-"14326",,Italy,Latium,Rome,Forum Traiani,Region I,verified,,12.48522162,41.89501798
-"14327",,Italy,Latium,Rome,Domus Aurea,Region I,rough,,12.49392271,41.89265402
-"14328","197477",Europe,Dacia,Romula,Tomb garden of A. I. Iulianus,,,,24.3972065,44.1742125
-"14329","197477",Europe,Dacia,Romula,Tomb garden of A. I. Iulianus,,,,15.666591,45.865867
-"14474",,Europe,Hispania Tarraconensis,Saguntum,Tomb garden/baths of P.C. Rufus,,Approximate,,-0.27748525,39.67807726
-"14483",,Europe,Gallia Aquitania,Saint-Cricq-Villeneuve,Villa at Glesia,,Approximate,,-0.351854,43.894495
-"14484",,Europe,Gallia Narbonensis,Saint-Cyr-sur-Mer,Villa des Baumelles,,,,0,0
-"14485",,Europe,Gallia Lugdunensis,Sainte-Marguerite-sur-Mer,Villa,,,,0,0
-"14486",,Europe,Gallia Aquitania,Saint-Emilion,Villa du Pulat,,,,0,0
-"14487",,Europe,Gallia Aquitania,Saintes,Tomb garden of C.I. Aemulianus,,,,0,0
-"14489",,Europe,Gallia Aquitania,Saint-Sever,Villa of Gleyzia d'Augreihl,,Verified,,-0.607343,43.758335
-"14589","197488",Europe,Dalmatia,Salona,Cemetery Garden,,,,16.4832580089569,43.5397215206134
-"14590","197488",Europe,Dalmatia,Salona,Tomb Garden of Cingius Iustinus,,,,16.4839553833008,43.5393093222588
-"14591","197488",Europe,Dalmatia,Salona,Tomb Garden of Iulia Mutiana,,,,16.4832593500614,43.5397215206134
-"14663","599925",Asia,Asia,Samos,Private House?,,verified,,26.979926,37.76968
-"14664","599925",Asia,Asia,Samos,Private House?,,verified,,26.979926,37.76968
-"14708",,Europe,Hispania Tarraconensis,Santervas del Burgo,Villa de los Villares,,,,0,0
-"14763",,Asia,Asia,Sardis,Palaestra,,wrong,,28.040286,38.488314
-"14859",,Italy,Campania,Scafati,,Region I,verified,,14.53308,40.7622
-"14996","266036",Europe,Hispania Tarraconensis,Segobriga,Bath Complex,,Verified,,-2.81302,39.885321
-"15076",,Europe,Gallia Lugdunensis,Selongey,Villa des Tuilleries,,,,0,0
-"15616",,Europe,Gallia Aquitania,Sorde-l'Abbaye,Villa,,Approximate,,-1.054241,43.528407
-"15617",,Europe,Gallia Aquitania,Sorde-l'Abbaye,Barat-de-Vin,,,,0,0
-"15713","433128",Italy,Campania,Stabiae,,Region I,rough,,14.4927305,40.6997655
-"15716",,Europe,Hispania Tarraconensis,Sta. Colomba de Somoza,Villa el Soldan,,,,0,0
-"15718",,Italy,Villa Adriana,Stadium gardens,,Region IV,verified,,12.77554393,41.94116963
-"15783",,Europe,Gallia Narbonensis,St-Romain-en-Gal,House of the Ocean Gods,,,,0,0
-"15784",,Europe,Gallia Narbonensis,St-Romain-en-Gal,House of Five Mosaics,,,,0,0
-"15785",,Europe,Gallia Narbonensis,St-Romain-en-Gal,House of Sucellus,,,,0,0
-"15786",,Europe,Gallia Narbonensis,St-Romain-en-Gal,House with the Painted Portico,,,,0,0
-"15787",,Europe,Gallia Narbonensis,St-Romain-en-Gal,House of the Lion,,,,0,0
-"15788",,Europe,Gallia Narbonensis,St-Romain-en-Gal,House of the Columns,,,,0,0
-"15789",,Europe,Gallia Narbonensis,St-Romain-en-Gal,House of the Fish,,,,0,0
-"15790",,Europe,Gallia Narbonensis,St-Romain-en-Gal,House A under High School,,,,0,0
-"15791",,Europe,Gallia Narbonensis,St-Romain-en-Gal,House B under High School,,,,0,0
-"15792",,Europe,Gallia Narbonensis,St-Romain-en-Gal,House of the Dove,,,,0,0
-"15841",,Europe,Britannia,Sudeley/Spoonley Wood,Rural Villa,,,,-1.935873,51.929252
-"15857","324816",Africa,Africa Proconsularis,Sufetula,House of the seasons,,verified,,9.119793,35.240165
-"15976",,Europe,Silicia,Syracuse,Public Square,,,,0,0
-"15977",,Europe,Silicia,Syracuse,Villa Borgellusa di Avola,,,,0,0
-"16182",,Europe,Silicia,Taormina,Villa S. Pancrazio,,,,0,0
-"16209",,Europe,Gallia Narbonensis,Taradeau,Villa of St. Martin,,,,0,0
-"16235",,Europe,Gallia Aquitania,Taron-Sadirac-Villenave,Villa de Taron,,Approximate,,-0.24991751,43.51016832
-"16248",,Europe,Hispania Tarraconensis,Tarraco,Schola of collegia Fabrum,,,,0,0
-"16249",,Europe,Hispania Tarraconensis,Tarraco,Theater,,,,0,0
-"16544",,Africa,Numidia,Thamagudi,Tomb garden of Cicero Thabudeiensis,,verified,,6.467448,35.485077
-"16792","315220",Africa,Africa Proconsularis,Thuburbo Maius,House of Trussed animals,,verified,,9.9039905,36.400355
-"16793","315220",Africa,Africa Proconsularis,Thuburbo Maius,House of Bacchus and Ariadne,,verified,,9.9039905,36.400355
-"16794","315220",Africa,Africa Proconsularis,Thuburbo Maius,Peristyle Market,,,,9.9039905,36.400355
-"16795","315220",Africa,Africa Proconsularis,Thuburbo Maius,House of Neptune,,verified,,9.9039905,36.400355
-"16796","315220",Africa,Africa Proconsularis,Thuburbo Maius,House of palms,,verified,,9.9039905,36.400355
-"16797","315220",Africa,Africa Proconsularis,Thuburbo Maius,House of Nicentus,,,,9.9039905,36.400355
-"16798","315220",Africa,Africa Proconsularis,Thuburbo Maius,Peristyle of the Petronii,,,,9.9039905,36.400355
-"16799","315220",Africa,Africa Proconsularis,Thuburbo Maius,Temple of Balaat,,verified,,9.9039905,36.400355
-"16800","315220",Africa,Africa Proconsularis,Thuburbo Maius,Temple of Caelestis,,,,9.9039905,36.400355
-"16801","315220",Africa,Africa Proconsularis,Thuburbo Maius,East Temple,,verified,,9.9039905,36.400355
-"16802","315220",Africa,Africa Proconsularis,Thuburbo Maius,Building of three pools,,,,9.9039905,36.400355
-"16803","315220",Africa,Africa Proconsularis,Thuburbo Maius,House of the protome,,,,9.9039905,36.400355
-"16809",,Africa,Africa Proconsularis,Thugga,House Omnia tibi felicia,,verified,,9.2188665,36.422473
-"16810",,Africa,Africa Proconsularis,Thugga,House of Trifolium,,verified,,9.2188665,36.422473
-"16811",,Africa,Africa Proconsularis,Thugga,Theater,,verified,,9.2188665,36.422473
-"16850","324835",Africa,Africa Proconsularis,Thysdrus,House of Africa,,,,10.707584,35.2960575
-"16851","324835",Africa,Africa Proconsularis,Thysdrus,House of peacock,,verified,,10.707584,35.2960575
-"16852","324835",Africa,Africa Proconsularis,Thysdrus,Sollertianna Domus,,verified,,10.707584,35.2960575
-"16853","324835",Africa,Africa Proconsularis,Thysdrus,House of white mosaics,,verified,,10.707584,35.2960575
-"16854","324835",Africa,Africa Proconsularis,Thysdrus,House of Lucius Verus,,,,10.707584,35.2960575
-"16855","324835",Africa,Africa Proconsularis,Thysdrus,House of Dolphins,,verified,,10.707584,35.2960575
-"16948",,Africa,Mauretania Tingitana,Tipasa,Villa of the Frescoes,,verified,,2.44159341,36.59421968
-"16949","344519",Africa,Mauretania Tingitana,Tipasa,Villa of the Frescoes,,verified,,10.747979,33.726022
-"16950","305169",Africa,Mauretania Tingitana,Tipasa,Villa of the Frescoes,,verified,,7.75,36.25
-"16967",,Europe,Achaia,Titane,Shrine of the Fates,,verified,,22.623851,37.919512
-"17009","246694",Europe,Gallia Narbonensis,Tolosa,Domus under Hotel D'Assezat,,Verified,,1.4418751,43.60035395
-"17016",,Italy,Altinum,"Tomb garden, l. Patroclus",,Region X,rough,,12.3994,45.5462
-"17017",,Italy,Patavium,Tomb garden of A. Coelius C.,,Region X,locality,,11.8698,45.4071
-"17018",,Italy,Capena,Tomb garden of L. Chaerusa,,Region VII,rough,,12.5402,42.1424
-"17019",,Italy,Vardagate,Tomb garden of V. Hermes,,Region IX,locality,,8.4406,45.0818
-"17020",,Italy,Latium,Tomb Gardens near Rome,,Region I,rough,,12.5033855438232,41.9093037286688
-"17075",,Europe,Gallia Narbonensis,Touvres,Villa de Muscapeau,,,,0,0
-"17116",,Italy,Arcinazzo Romano,Trajan's Villa,,Region IV,rough,,13.1589,41.8548
-"17423",,Asia,Syria,Tyre,Tomb Garden,,,,0,0
-"17433",,Asia,Syria,Tyros,Iraq-el Amir,,,,35.2038435,33.2698475
-"17434",,Asia,Syria,Tyros,Iraq-el Amir,,,,41.97266,34.462015
-"17435","570759",Asia,Syria,Tyros,Iraq-el Amir,,,,39.92431640625,34.4884478378093
-"17574","315247",Africa,Africa Proconsularis,Uthina,House of Icarios,,verified,,10.172291,36.607458
-"17575","315248",Africa,Africa Proconsularis,Utica,House H,,verified,,10.061305,37.055611
-"17576","315248",Africa,Africa Proconsularis,Utica,House of the figured basins,,verified,,10.061305,37.055611
-"17577","315248",Africa,Africa Proconsularis,Utica,House of the Treasure,,verified,,10.061305,37.055611
-"17578","315248",Africa,Africa Proconsularis,Utica,House of the Cascade,,verified,,10.061305,37.055611
-"17579","315248",Africa,Africa Proconsularis,Utica,"Insula II, lot 4",,verified,,10.061305,37.055611
-"17580","315248",Africa,Africa Proconsularis,Utica,House of grand oecus,,verified,,10.061305,37.055611
-"17600",,Africa,Africa Proconsularis,Uzitta,???,,,,0,0
-"17620",,Europe,Gallia Aquitania,Valentine,Villa of Arnesp,,Verified,,0.68908,43.096051
-"17675",,Europe,Gallia Narbonensis,Vasio Voncontorium,House of the peacock,,,,0,0
-"17676",,Europe,Gallia Narbonensis,Vasio Voncontorium,House of Laurel-wreathed Apollo,,,,0,0
-"17677",,Europe,Gallia Narbonensis,Vasio Voncontorium,House with Arbor,,,,0,0
-"17678",,Europe,Gallia Narbonensis,Vasio Voncontorium,House of Dolphin,,,,0,0
-"17679",,Europe,Gallia Narbonensis,Vasio Voncontorium,House of Silver Bust,,,,0,0
-"17709",,Italy,Campania,Velia,,Region I,verified,,15.15546799,40.16109947
-"17743",,Italy,Villas near Tivoli,Ventidius Bassus' Villa,,Region IV,,,0,0
-"17785","177657",Europe,Germania Superior,Vesontio,House in Rue du Palais de Justice,,,,6.027924,47.2372405
-"17786","177657",Europe,Germania Superior,Vesontio,Structures under college Lumiere,,,,6.027924,47.2372405
-"17792","138650",Europe,Gallia Aquitania,Vesunna,Domus Campniac,,,,0.71798085,45.18386505
-"17793","138650",Europe,Gallia Aquitania,Vesunna,House of Vesunna,,,,0.71798085,45.18386505
-"17794","138650",Europe,Gallia Aquitania,Vesunna,"House of ""Visitation""",,Approximate,,0.71798085,45.18386505
-"17795",,Europe,Germania Inferior,Vetera Casta,Legionary Houses,,,,0,0
-"17903",,Europe,Gallia Narbonensis,Vienna,House of the head of Ivory,,,,0,0
-"17904",,Europe,Gallia Narbonensis,Vienna,House in Rue des Colonnes,,,,0,0
-"17905",,Europe,Gallia Narbonensis,Vienna,House of Orpheus,,,,0,0
-"17906",,Europe,Gallia Narbonensis,Vienna,House of Bacchus and Ariadne,,,,0,0
-"17907",,Europe,Gallia Narbonensis,Vienna,House of the Nympheas,,,,0,0
-"17908",,Europe,Gallia Narbonensis,Vienna,"Nympheas, House of the Atrium",,,,0,0
-"17910",,Europe,Gallia Belgica,Vierherrenborn,Rural Villa,,,,0,0
-"17914",,Europe,Lusitania,Vila de Frades,Villa Sao Cucufate,,wrong,,0,0
-"17915",,Italy,Desenzano,Villa,,Region VIII,,,0,0
-"17916",,Italy,Toscolano Maderno,Villa,,Region VIII,rough,,10.6128,45.6379
-"17919",,Italy,La Spezia,Villa at Luna,,Region IX,rough,,9.8214,44.1159
-"17920",,Italy,Orbetello,Villa at Settefinestre,,Region VII,verified,,11.3267,42.4305
-"17921",,Italy,Bracciano,Villa dell'Acqua Claudia,,Region VII,verified,,12.3008143901825,42.0669408529913
-"17922",,Italy,Elba,Villa delle Grotte,,Region VII,verified,,10.33076406,42.80048618
-"17933",,Italy,Villas near Tivoli,Villa of Horace,,Region IV,verified,,12.9011,42.0661
-"17934",,Italy,Villas near Tivoli,Villa of Pianelle dei Signori Reali,,Region IV,,,0,0
-"17935",,Italy,Villas near Tivoli,Villa of St. Stefano near Montecelio,,Region IV,rough,,12.7257,41.9921
-"17936",,Italy,Tegeste,Villa of the Bath,,Region X,rough,,13.7377166748047,45.6975474261076
-"17937",,Italy,Tegeste,Villa of the Statue,,Region X,locality,,13.725,45.7015
-"17938",,Italy,Villas near Tivoli,Villa of Vibii Vari,,Region IV,,,0,0
-"17959",,Europe,Gallia Lugdunensis,Vindinum,House on Place des Halles,,,,0,0
-"18021",,Europe,Germania Inferior,Voerendaal,Rural Villa,,,,0,0
-"18037","275740",Africa,Mauretania Tingitana,Volubilis,Gordinian Palace,,verified,,-5.5548,34.0725
-"18038","275740",Africa,Mauretania Tingitana,Volubilis,House of Ephebe,,verified,,-5.5548,34.0725
-"18039","275740",Africa,Mauretania Tingitana,Volubilis,House of Columns,,verified,,-5.5548,34.0725
-"18040","275740",Africa,Mauretania Tingitana,Volubilis,House of Labors of Hercules,,verified,,-5.5548,34.0725
-"18041","275740",Africa,Mauretania Tingitana,Volubilis,House of Flavius Germanus,,verified,,-5.5548,34.0725
-"18042","275740",Africa,Mauretania Tingitana,Volubilis,House of the Venus Mosaic,,verified,,-5.5548,34.0725
-"18074",,Europe,Gallia Belgica,Welschbillig,Rural Villa,,,,0,0
-"18077",,Europe,Germania Superior,Wiesbaden-Biebrich,Rural Villa,,,,0,0
-"18078",,Europe,Pannonia,Winden am see,Rural Villa,,,,0,0
-"18079",,Europe,Germania Superior,Winkel-Seeb,Rural Villa,,,,0,0
-"18084",,Africa,Aegyptus,Kanopos,Alexandria,,,,31.31294,30.071657
+fid,pleiades_id,continent,it_region,n1,n2,n3,verified,notes,lon,lat
+"1",,Italy,Region I,Pompeii,,VII.15.2,site,Casa del Marinaio,14.4837160324906,40.7490466562197
+"2",,Italy,Region I,Pompeii,,VII.15.3,site,,14.4838244224727,40.7491306254743
+"3",,Italy,Region I,Pompeii,,VII.15.4,site,Taberna Lusoria Aleariorum,14.483879536023,40.7491798007897
+"4",,Italy,Region I,Pompeii,Shop-House,VIII.3.21,site,,14.4863931386026,40.7513388428328
+"5",,Italy,Region I,Pompeii,Shop-House,VII.3.22,site,,14.4864274314783,40.751298947177
+"6",,Italy,Region I,Pompeii,Shop-House,VII.3.23,site,,14.4864739718096,40.751246990008
+"7",,Italy,Region I,Pompeii,House of M. Spurius Mensor,VII.3.29,site,,14.4859779498576,40.75106838693
+"8",,Italy,Region I,Pompeii,"Casa del Panettiere; del Magistrato Anonimo",VII.3.30,site,,14.485823631917,40.7510155017707
+"9",,Italy,Region I,Pompeii,,VII.3.36,site,,14.4856325716096,40.7510377692113
+"10",,Italy,Region I,Pompeii,,VII.3.37,site,,14.4856264478818,40.7510720981677
+"11",,Italy,Region I,Pompeii,House of Bacchus,VII.4.10,site,,14.4845070304394,40.7504569576954
+"12",,Italy,Region I,Pompeii,Shop-House,VII.4.20,site,,14.4848720046165,40.750274177303
+"13",,Italy,Region I,Pompeii,,VII.4.26,site,,14.4852014611722,40.7503372690689
+"14",,Italy,Region I,Pompeii,,VII.4.27,site,,14.4852516757402,40.7503567532786
+"15",,Italy,Region I,Pompeii,Aviary,VII.7.16,site,,14.4839624906536,40.7495433836405
+"16",,Italy,Region I,Pompeii,,VII.7.17,site,,14.4839094522832,40.7495897091331
+"17",,Italy,Region I,Pompeii,,VII.7.23,site,,14.4841912836243,40.7497416061002
+"18",,Italy,Region I,Pompeii,"House of the Golden Cupids; ouse of Cn. Poppaeus Habitus",VI.16.7,site,Casa degli Amorini Dorati,14.4851590307529,40.7524180273475
+"19",,Italy,Region I,Pompeii,,VI.16.10,site,,14.4850022633212,40.7525664736796
+"20",,Italy,Region I,Pompeii,,VI.16.26-27,site,,14.4844780722213,40.7527650201307
+"21",,Italy,Region I,Pompeii,,VI.16.29-30,site,,14.4845729900022,40.7526235326503
+"22",,Italy,Region I,Pompeii,,VI.16.31,site,,14.4846232045702,40.752527970444
+"23",,Italy,Region I,Pompeii,,VI.16.36,site,,14.4847677245463,40.7523034451083
+"24",,Italy,Region I,Pompeii,,VI.17.9-10,site,,14.4819814283961,40.7513413176254
+"25",,Italy,Region I,Pompeii,House of Polybius,VI.17.23-26,site,,14.4828191543595,40.7506046358701
+"26",,Italy,Region I,Pompeii,"House of Aequanus; House of Polybus [Mazois, Zahn, Breton]",VI.17.32/36,site,,14.4831865780277,40.7501370150047
+"27",,Italy,Region I,Pompeii,"House of the Wedding of Alexander; House of the Bracelet",VI.17.42,site,,14.4834952139089,40.7497862971977
+"28",,Italy,Region I,Pompeii,House of the Popidii,VIII.3.4,site,Casa di Ercole ed Auge,14.4856846896578,40.7491718425416
+"29",,Italy,Region I,Pompeii,House of Championnet I,VII.2.1,site,,14.4845414338877,40.7485862972733
+"30",,Italy,Region I,Pompeii,"House of the Wild Boar I; House of L. Coelius Caldus",VIII.3.8,site,Casa del Cinghiale I,14.4858621755939,40.749218455942
+"31",,Italy,Region I,Pompeii,Shop on Via dell’Abbondanza,II.5.1,site,,14.4937855261086,40.75247833371
+"32",,Italy,Region I,Pompeii,,VI.1.1,site,Caupona,14.4813670210443,40.7517957432551
+"33",,Italy,Region I,Pompeii,"House of P. Varenius Zethus; House of the Vestals",VI.1.7,site,Casa delle Vestali,14.4816890232593,40.7516067329663
+"34",,Italy,Region I,Pompeii,"House of P. Varenius Zethus; House of the Vestals",VI.1.25,site,Casa delle Vestali,14.4819126894686,40.7518968211797
+"35",,Italy,Region I,Pompeii,House of the Surgeon,VI.1.10,site,Casa del Chirurgo,14.4818023988895,40.751535160151
+"36",,Italy,Region I,Pompeii,"House of Sallust; of A Cossius Libanus; House of Actaron",VI.2.5,site,Casa di Atteone,14.4825110575052,40.7510871357085
+"37",,Italy,Region I,Pompeii,"House of Sallust; of A Cossius Libanus; House of Actaeon",VI.2.3,site,Casa di Atteone,14.4824502357406,40.7511524988586
+"38",,Italy,Region I,Pompeii,"House of Actaeon; House of Sallust; of A Cossius Libanus",VI.2.4,site,Casa di Atteone,14.4824827683124,40.7511176742374
+"39",,Italy,Region I,Pompeii,,VI.2.10,site,,14.4823059608573,40.7513362654033
+"40",,Italy,Region I,Pompeii,,VI.2.12,site,,14.4822065950675,40.7515189599196
+"41",,Italy,Region I,Pompeii,"House of the Amazons; of Isis and Osiris",VI.2.14,site,,14.4821114726567,40.7516759375048
+"42",,Italy,Region I,Pompeii,House of Narcissus,VI.2.16,site,Casa del Narcisso,14.4819983158855,40.7518409510856
+"43",,Italy,Region I,Pompeii,House of Narcissus,VI.2.21,site,Casa del Narcisso,14.4823328355905,40.7520300732898
+"44",,Italy,Region I,Pompeii,Stable and Caupona,VI.2.18,site,,14.4818879880335,40.7519963206412
+"45",,Italy,Region I,Pompeii,Stable and Caupona,VI.2.19,site,,14.4822366523349,40.7521763345689
+"46",,Italy,Region I,Pompeii,Hospitum,VI.2.20,site,,14.4822978277144,40.7520812379863
+"47",,Italy,Region I,Pompeii,"House of Apollo; House of the Female Dancers",VI.2.15,site,Casa delle Danzatrici,14.4820623201842,40.751750140091
+"48",,Italy,Region I,Pompeii,"House of Apollo; House of the Female Dancers",VI.2.22,site,Casa delle Danzatrici,14.4823940109699,40.7519376552827
+"49",,Italy,Region X,Brioni Island,,,locality,,13.7609,44.912
+"50",,Europe,,Creta,,,,,0,0
+"51",,Europe,,Germania Inferior,Blackenheim,Rural Villa,,,0,0
+"52",,Italy,Region IV,Villa Adriana,Canopus gardens,,verified,,12.7759409,41.93847218
+"53",,Europe,,Britannia,Chedworth,Rural Villa,,,-1.924798,51.81983
+"54",,Italy,Region IV,Villas near Tivoli,Colle Vitriano,,locality,,12.7982,41.95389
+"55",,Italy,Region IV,Villas near Tivoli,Cynthia's villa,,,,0,0
+"56",,Europe,,Germania Superior,Ferpicloz,Rural Villa,,,0,0
+"57",,Africa,,Aegyptus,Imbrahimiya,Alexandria,locality,,29.925521,31.2141
+"58",,Europe,,Lusitania,La Cocosa,Villa de La Cocosa,wrong,,0,0
+"59",,Italy,Region I,Campania,Massa Lubrense,,rough,,14.33372498,40.60355938
+"60",,Europe,,Gallia Aquitania,Montmaurin,Villa of Lasalles,verified,,0.645487,43.216435
+"61",,Europe,,Achaia,Sikyon,Sanctuary of Demeter and Persephone,verified,,22.712222,37.984037
+"62",,Italy,Region I,Latium,Sperlonga,,verified,,13.46288681,41.24231993
+"63",,Italy,Region IV,Villa Adriana,Terraced garden,,rough,,12.77243793,41.94337219
+"64",,Africa,,Aegyptus,Theadelphia,Fayum,locality,,30.516667,29.35
+"65",,Europe,,Gallia Lugdunensis,Vaise,House with Xenia,,,0,0
+"66",,Europe,,Gallia Narbonensis,Vasio Voncontorium,Sanctuary with Porticoes,,,0,0
+"67",,Europe,,Gallia Belgica,Weitersbach,Rural Villa,,,0,0
+"68",,Italy,Region VII,Cosa,,,rough,,11.2877,42.4126
+"69",,Asia,,Hellespontus,,,,,0,0
+"70",,Asia,,Galatia-Cappodocia,,,,,0,0
+"71",,Asia,,Cilicia,,,,,0,0
+"72",,Asia,,Bithynia,,,,,0,0
+"73",,Asia,,Armenia,,,,,0,0
+"74",,Europe,,Raetia,,,,,0,0
+"75",,Europe,,Moesia,,,,,0,0
+"76",,Africa,,Cyrene,,,,,0,0
+"77",,Italy,Region IV,Tivoli,,,verified,,12.7971,41.96566
+"78",,Italy,Region II,Spinazzola,,,rough,,16.086,40.9659
+"79",,Europe,,"Alpes Cottiae, Maritimiae, Poeniae",,,,,0,0
+"80",,Asia,,Paphlagonia,,,,,0,0
+"81",,Europe,,Lycaonia,,,,,0,0
+"82",,Europe,,Thracia,,,,,0,0
+"83",,Asia,,Mesopotamia,,,,,0,0
+"84",,Asia,,Lycia,,,,,0,0
+"85",,Europe,,Sardinia,,,,,0,0
+"86",,Italy,Region IV,Tomb Garden of Valeria Athenais,,,rough,,12.7882,41.9593
+"87","324653",Africa,,Africa Proconsularis,Acholla,House of the Triumph of Neptune,,,11.0261615,35.103997
+"88","324653",Africa,,Africa Proconsularis,Acholla,House of Asinus Rufinus,locality,,11.0261615,35.103997
+"89",,Europe,,Achaia,Aegina,Temple Grove,verified,,23.51898193,37.7392273
+"90",,Europe,,Silicia,Agrigento,Villa Durrueli di Realmonte,,,0,0
+"91",,Europe,,Hispania Tarraconensis,Aguilafuente,Villa of Sta. Lucia,locality,,-4.08525109,41.2160051
+"92","187265",Europe,,Noricum,Aguntum,Urban House,,,12.8228592,46.8274616
+"93",,Europe,,Gallia Narbonensis,Ain,Tomb Garden of M. R. Catullus,,,0,0
+"94",,Europe,,Hispania Tarraconensis,Alameda,Funerary Grove of T.A. Vetus,close,,-3.87698561,38.60877848
+"95",,Europe,,Hispania Baetica,Alameda,Villa del Cortijo de los Vila,locality,,-4.657951,37.21646279
+"96","167629",Europe,,Gallia Narbonensis,Alba Helviorum,Baths of La Planchette,verified,,4.59887803,44.56058911
+"97","167629",Europe,,Gallia Narbonensis,Alba Helviorum,"Sainte-Pierre, House",verified,,4.59873319,44.56132679
+"98","167629",Europe,,Gallia Narbonensis,Alba Helviorum,Les Basaltes House A,verified,,4.59828258,44.56029862
+"99","167629",Europe,,Gallia Narbonensis,Alba Helviorum,"Le Pinard, House A",verified,,4.60074484,44.55855185
+"100","167629",Europe,,Gallia Narbonensis,Alba Helviorum,"Le Pinard, House B",verified,,4.60075021,44.55871238
+"101","167629",Europe,,Gallia Narbonensis,Alba Helviorum,Area with Porticoes A,verified,,4.60009575,44.56130386
+"102","167629",Europe,,Gallia Narbonensis,Alba Helviorum,Villa of Le Plaine,approximate,,4.60525632,44.5635092
+"103","167629",Europe,,Gallia Narbonensis,Alba Helviorum,Area with Porticoes B,verified,,4.60073411,44.5619498
+"104",,Europe,,Hispania Tarraconensis,Albaladejo,Villa en Puente de la Olmilla,locality,,-2.7652778,38.6027778
+"105",,Europe,,Hispania Baetica,Almedinilla,Villa el Ruedo,close,,-4.08942997,37.44311096
+"106",,Europe,,Hispania Tarraconensis,Altafulla,Villa de Els Munts,locality,,1.38580084,41.13602341
+"107","324664",Africa,,Africa Proconsularis,Althiburos,House of the Muses,,,8.831793,35.94384
+"108","324664",Africa,,Africa Proconsularis,Althiburos,House of the Fishing Scene,,,8.831793,35.94384
+"109","324664",Africa,,Africa Proconsularis,Althiburos,House of the monument of Asklepieia,locality,,8.831793,35.94384
+"110",,Europe,,Gallia Narbonensis,Andance,Villa de Chateau Pipet,,,0,0
+"111",,Europe,,Germania Superior,Andematunnum,Tomb garden of anonymous,,,5.335214,47.864221
+"112",,Asia,,Syria,Antioch,Private Houses,,,0,0
+"113","648565",Asia,,Asia,Aphrodisias,?,verified,,28.723535,37.709163
+"114",,Asia,,Asia,Aphrodisias,?,verified,,28.723535,37.709163
+"115","648565",Asia,,Asia,Aphrodisias,?,verified,,28.723535,37.709163
+"116","648565",Asia,,Asia,Aphrodisias,?,verified,,28.723535,37.709163
+"117",,Africa,,Aegyptus,Aphrodite Nome,Upper Nile Valley,approximate,,31.39106,26.875369
+"118",,Europe,,Gallia Narbonensis,Aquae Sextiae,"Jardins de Grassi, House with large peristyle",verified,,5.4445678,43.53323879
+"119",,Europe,,Gallia Narbonensis,Aquae Sextiae,"Enclos Reynaud, house with pool",approximate,,5.44134915,43.53269432
+"120",,Europe,,Gallia Narbonensis,Aquae Sextiae,"Enclos Reynaud, house with semicircular bay",approximate,,5.44127941,43.53272154
+"121",,Europe,,Gallia Narbonensis,Aquae Sextiae,"Enclos Milhaud, house with large peristyle",verified,,5.44147253,43.53238708
+"122",,Europe,,Gallia Narbonensis,Aquae Sextiae,House under Pasteur,verified,,5.44617981,43.53399132
+"123",,Europe,,Gallia Narbonensis,Aquae Sextiae,"Enclos Reynaud, house with opus sectile",approximate,,5.44139743,43.53274488
+"124","197130",Europe,,Pannonia,Aquincum,Urban House,,,19.049522,47.564075
+"125",,Europe,,Germania Superior,Arae Flaviae,Large building,,,8.627925,48.166687
+"126",,Europe,,Gallia Narbonensis,Arausio,House with polychrome mosaic,,,0,0
+"127",,Europe,,Gallia Narbonensis,Arausio,House on Cours Portoules,,,0,0
+"128",,Europe,,Gallia Narbonensis,Arausio,Sururban villa de la Brunette,,,0,0
+"129",,Europe,,Gallia Narbonensis,Arausio,House of Mosaic with Menander,,,0,0
+"130",,Europe,,Gallia Narbonensis,Arausio,House of Clodius,,,0,0
+"131",,Italy,Region IV,Villas near Tivoli,Arcinelli's Villa,,locality,,12.794,41.9203
+"132",,Europe,,Hispania Baetica,Arcos de la Frontera,Villa el Santiscal,verified,,-5.77183619,36.7655691
+"133",,Europe,,Gallia Narbonensis,Arelate,Trinquetaille House 1,,,0,0
+"134",,Europe,,Gallia Narbonensis,Arelate,House under Credit Agricole,,,0,0
+"135",,Africa,,Aegyptus,Arsinoite Nome,Fayum,,,0,0
+"136",,Europe,,Achaia,Athens,Altar of 12 Gods,verified,,23.722662,37.97572
+"137",,Europe,,Achaia,Athens,Temple of Hephaistos,verified,,23.721409,37.975646
+"138",,Europe,,Achaia,Athens,Hadrian's Library,verified,,23.725995,37.975531
+"139",,Europe,,Achaia,Athens,Omega House,,,0,0
+"140",,Europe,,Achaia,Athens,Gardens of Epicurus,,,0,0
+"141",,Europe,,Achaia,Athens,Gymnasia and groves,verified,,23.743349,37.974031
+"142",,Europe,,Achaia,Athens,Palace of Giants,verified,,23.722431,37.974611
+"143",,Europe,,Achaia,Athens,Houses near Areopagus,verified,,23.727201,37.970633
+"144",,Europe,,Lusitania,Augusta Emerita,House of Amphitheater,wrong,,0,0
+"145",,Europe,,Lusitania,Augusta Emerita,House in Alcazaba,wrong,,0,0
+"146",,Europe,,Lusitania,Augusta Emerita,House of Theater,wrong,,0,0
+"147",,Europe,,Lusitania,Augusta Emerita,House of hill garden,unknown,,0,0
+"148",,Europe,,Lusitania,Augusta Emerita,House of mithraeum,wrong,,0,0
+"149",,Europe,,Lusitania,Augusta Emerita,Peristyle of Theater,wrong,,0,0
+"150",,Europe,,Lusitania,Augusta Emerita,Houses of Museum,wrong,the location is a museum now,0,0
+"151",,Europe,,Lusitania,Augusta Emerita,Temple of Diana,wrong,,0,0
+"152",,Europe,,Germania Superior,Augusta Raurica,House in insula 1 and 2,,,0,0
+"153",,Europe,,Germania Superior,Augusta Raurica,"House, insula 30",,,0,0
+"154","138203",Europe,,Gallia Aquitania,Augustoritum,Opus Sectile and House of Opus Quadratum,approximate,,1.26466691,45.82834696
+"155","138203",Europe,,Gallia Aquitania,Augustoritum,House of Five Mosaics,approximate,,1.26454353,45.82865721
+"156","138203",Europe,,Gallia Aquitania,Augustoritum,House of Opus Sectile,approximate,,1.26447916,45.8283507
+"157","138203",Europe,,Gallia Aquitania,Augustoritum,"House 35, Insula VII-5",approximate,,1.26439333,45.8284591
+"158","138203",Europe,,Gallia Aquitania,Augustoritum,House with Aquatic décor,approximate,,1.25611067,45.82863478
+"159","138203",Europe,,Gallia Aquitania,Augustoritum,House with Small viridarium,approximate,,1.26450598,45.82857871
+"160","138203",Europe,,Gallia Aquitania,Augustoritum,House in Rue de Clairettes,verified,,1.25501633,45.82912819
+"161","138203",Europe,,Gallia Aquitania,Augustoritum,House of Large Vestibule,approximate,,1.26437187,45.82836939
+"162","138203",Europe,,Gallia Aquitania,Augustoritum,House in rue de Vigne de fer,verified,,1.25817865,45.82775822
+"163","138203",Europe,,Gallia Aquitania,Augustoritum,House of Nones of March,verified,,1.26244068,45.824164
+"164","579889",Europe,,Achaia,Aulis,Sanctuary of Artemis,verified,,22.435118,37.082874
+"165","108778",Europe,,Gallia Lugdunensis,Autricum,Domus of Place des Epars,verified,,1.48392677,48.4442765
+"166",,Europe,,Germania Superior,Aventicum,"House, insula 16",,,0,0
+"167",,Europe,,Germania Superior,Aventicum,"Palatial House, Insula 7",,,0,0
+"168",,Europe,,Germania Superior,Aventicum,"House, Insula 13",,,0,0
+"169",,Europe,,Gallia Belgica,Bad Durkheim-Ungstein,Rural Villa,,,0,0
+"170",,Europe,,Germania Superior,Bad Kreuznach,Rural Villa,,,0,0
+"171",,Europe,,Hispania Baetica,Baelo Claudia,West House,locality,,-5.77540487,36.08845573
+"172",,Europe,,Hispania Baetica,Baelo Claudia,House of Sundial,locality,,-5.77532977,36.08843839
+"173",,Italy,Region I,Campania,Baiae,,verified,,14.0683355,40.8181965
+"174","658394",Italy,Region I,Campania,Baiae,,verified,,14.06850815,40.81835627
+"175",,Europe,,Britannia,Bancroft,Rural Villa,,,-0.794662,52.055309
+"176",,Europe,,Hispania Tarraconensis,Barcino,House of Condes de Barcelona St.,unknown,can't find,2.173611,41.385
+"177",,Asia,,Syria,Batnae,Imperial Residence,,,38.424374,36.9763845
+"178",,Europe,,Hispania Baetica,Benalmadena-Costa,villa?,,,0,0
+"179",,Europe,,Gallia Aquitania,Beneharnum,Villa de Saint-Michel,verified,,-0.42248011,43.32886149
+"180","138227",Europe,,Gallia Aquitania,Blacciacum,Villa de Plassac,verified,,-0.6460765,45.101925
+"181",,Europe,,Gallia Belgica,Borg,Villa Borg,verified,,6.4576757,49.4966815
+"182","432723",Italy,Region I,Campania,Boscoreale,,verified,,14.4732795,40.76841
+"183","432724",Italy,Region I,Campania,Boscotrecase,,verified,,14.463003,40.775369
+"184",,Europe,,Gallia Narbonensis,Briord,Tomb garden,,,0,0
+"185",,Italy,Region IV,Villas near Tivoli,Brutus' Villa,,locality,,12.8041,41.9343
+"186",,Italy,Region IV,Villa Adriana,Building east of Inferi Nymphaeum,,locality,,12.78088152,41.93819285
+"187",,Asia,,Iudaea,Caesarea Maritima,Praetorium,,,0,0
+"188",,Asia,,Iudaea,Caesarea Maritima,Herod's Promontory Palace,,,0,0
+"189",,Europe,,Hispania Tarraconensis,Calafell,Vilarenc,unknown,the coordinates in GRE are wrong / can't find,1.5699935,41.19155682
+"190",,Europe,,Britannia,Camulodunum,Suburban gardens,,,0.904605,51.887409
+"191",,Italy,Region IV,Villas near Tivoli,Capito's Villa,,,,0,0
+"192",,Italy,Region I,Campania,Capri,,rough,,14.227,40.5501
+"193","432754",Italy,Region I,Campania,Capua,,verified,,14.250207,41.0860925
+"194",,Africa,,Africa Proconsularis,Carthage,House of the Cryptoportico,,,0,0
+"195",,Africa,,Africa Proconsularis,Carthage,House of Dionysos,,,0,0
+"196",,Africa,,Africa Proconsularis,Carthage,House of the Aviary,verified,,10.3314221,36.857911
+"197",,Italy,Region I,Latium,Cassino,,rough,,13.83247375,41.48029018
+"198",,Italy,Region IV,Villas near Tivoli,Cassius' Villa,,locality,,12.8137,41.9316
+"199",,Europe,,Gallia Aquitania,Castelculier,Villa Lamarque,verified,,0.69766402,44.17592922
+"200",,Europe,,Gallia Narbonensis,Caumont-sur-Durance,Villa of St. Symphorien,,,0,0
+"201",,Europe,,Gallia Narbonensis,Cavalaire-sur-Mer,Villa de Pardigon,,,0,0
+"202",,Europe,,Britannia,Chester,Tomb painting?,,,-2.887628,53.188456
+"203",,Africa,,Numidia,Cirta,Tomb garden,,,6.6136765,36.3680785
+"204","187350",Europe,,Hispania Tarraconensis,Clunia,House of Taracena,close,,-3.37100029,41.78117698
+"205",,Africa,,Africa Proconsularis,Clupea,Villa with Bust,,,0,0
+"206",,Africa,,Africa Proconsularis,Clupea,House of the Two Hunts,,,0,0
+"207",,Europe,,Gallia Belgica,Colonia Augusta Treverorum,Urban House,,,0,0
+"208",,Europe,,Germania Inferior,Colonia Claudia Ara Agrippinensium,House Gertrudenstrasse,,,6.959908,50.940671
+"209",,Europe,,Germania Inferior,Colonia Claudia Ara Agrippinensium,House Wolfstrasse,,,6.959908,50.940671
+"210",,Europe,,Germania Inferior,Colonia Claudia Ara Agrippinensium,House Lungenstrasse,,,6.959908,50.940671
+"211",,Europe,,Germania Inferior,Colonia Claudia Ara Agrippinensium,Atrium House,,,6.959908,50.940671
+"212",,Europe,,Germania Inferior,Colonia Claudia Ara Agrippinensium,House of Dionysos,,,6.959908,50.940671
+"213",,Europe,,Hispania Baetica,Colonia Patricia Corduba,Fountain statues,unknown,likely to be museum collection,-4.7749114,37.88147573
+"214",,Europe,,Hispania Baetica,Colonia Patricia Corduba,Fountain,unknown,discovery spot is unknown. under Cordoba section in GRE,-4.77492213,37.88150749
+"215",,Europe,,Germania Inferior,Colonia Ulpia Traiana,"Houses, Insula 27",,,0,0
+"216","236443",Europe,,Lusitania,Conimbriga,House of skeleton,,,-8.49416375,40.09902645
+"217","236443",Europe,,Lusitania,Conimbriga,House of the Fountains,,,-8.49416375,40.09902645
+"218","236443",Europe,,Lusitania,Conimbriga,House of the Cantabar,,,-8.49416375,40.09902645
+"219","236443",Europe,,Lusitania,Conimbriga,House of swastika mosaic,verified,,-8.49416375,40.09902645
+"220",,Europe,,Achaia,Corinth,Circus,,,0,0
+"221",,Europe,,Pannonia,Cornuntum,Urban Houses,,,0,0
+"222",,Italy,Region IV,Villa Adriana,Courtyard in Republican Villa,,verified,,12.77686894,41.94194373
+"223",,Europe,,Hispania Tarraconensis,Cuevas de Sona,Villa Dehesa de Soria,close,,-2.62084812,41.66920126
+"224",,Asia,,Syria,Daphne,Temple of Apollo,,,29.001901,41.043598
+"225","678110",Asia,,Syria,Daphne,Temple of Apollo,,,35.639166,33.230128
+"226","658450",Asia,,Syria,Daphne,Temple of Apollo,,,36.142802,36.130422
+"227",,Europe,,Britannia,Darenth,Rural Villa,,,0.282782,51.434364
+"228","511226",Asia,,Phrygia,Daskyleion,Satrapal Estate,,,28.674196,40.377645
+"229",,Asia,,Phrygia,Daskyleion,Satrapal Estate,,,28.062536,40.138708
+"230",,Europe,,Achaia,Delos,Kitchen/Commercial gardens,,,25.2681308984756,37.3955779434277
+"231",,Europe,,Achaia,Delos,Kitchen/Commercial gardens,,,25.271111,37.393333
+"232",,Europe,,Achaia,Delos,Peristyle gardens,,,25.2681362628937,37.3955779434277
+"233",,Europe,,Achaia,Delos,Peristyle gardens,,,25.2711188793182,37.3933372561952
+"234",,Europe,,Achaia,Delos,Agora of Italians,verified,,25.26761055,37.40178397
+"235",,Europe,,Achaia,Delos,Agora of Italians,verified,,25.26761055,37.40180101
+"236",,Asia,,Asia,Didyma,Temple Grove,verified,,27.256115,37.384829
+"237",,Europe,,Gallia Narbonensis,Die,Tomb garden of P. Calistus,,,0,0
+"238",,Europe,,Germania Superior,Dietikon,Rural Villa,,,0,0
+"239",,Africa,,Aegyptus,Dionysias,Fayum,close,,30.417435,29.40642
+"240",,Europe,,Gallia Belgica,Divodurum Mediomatricorum,Villa de Larry,,,0,0
+"241",,Europe,,Gallia Belgica,Divodurum Mediomatricorum,House of the Arsenal,,,0,0
+"242",,Europe,,Gallia Belgica,Divodurum Mediomatricorum,Villa des Rouaux,,,0,0
+"243","108945",Europe,,Gallia Belgica,Durocortorum,House of the Ram,approximate,,4.03293729,49.25408102
+"244","108945",Europe,,Gallia Belgica,Durocortorum,House aux Fleurons,approximate,,4.04052258,49.25461323
+"245","108945",Europe,,Gallia Belgica,Durocortorum,House on Rue des Capucins,approximate,,4.03305531,49.25387794
+"246",,Europe,,Britannia,Eccles,Rural Villa,,,0.465263,51.320276
+"247",,Europe,,Gallia Belgica,Echternach,Rural Villa,,,0,0
+"248",,Europe,,Hispania Baetica,Egabrum,House of the Mithra,locality,,-4.45918322,37.48774811
+"249",,Asia,,Iudaea,Ein Gedi,Balsam Groves,,,0,0
+"250",,Europe,,Pannonia,Eisenstadt,Rural Villa,,,0,0
+"251","246382",Europe,,Hispania Tarraconensis,Emporiae,House R2,verified,,3.11799288,42.13388454
+"252","246382",Europe,,Hispania Tarraconensis,Emporiae,N7 domus H,verified,,3.12029421,42.13456082
+"253","246382",Europe,,Hispania Tarraconensis,Emporiae,House of the Mosaic,verified,,3.12006623,42.13525102
+"254","246382",Europe,,Hispania Tarraconensis,Emporiae,House of L-shaped cistern,verified,,3.12019229,42.13566772
+"255","246382",Europe,,Hispania Tarraconensis,Emporiae,House of Peristyle,verified,,3.12116325,42.1347836
+"256","246382",Europe,,Hispania Tarraconensis,Emporiae,Casa Villanueve,verified,,3.11742425,42.13449718
+"257",,Europe,,Silicia,Enna,Villa near Piazza Armerina,,,14.279558,37.567652
+"258",,Italy,Region IV,Villa Adriana,Entrance to Villa,,rough,,12.77430475,41.94293727
+"259",,Asia,,Asia,Ephesus,Terrace Houses,verified,,27.3517645,37.9445239
+"260","570228",Europe,,Achaia,Epidauros,Sanctuary of Hyrnetho,verified,,23.15963835,37.6337759
+"261",,Europe,,Lusitania,Estoi,Villa Milreu,wrong,,0,0
+"262",,Europe,,Achaia,Eua,Villa of Herodes Atticus,verified,,22.656854,37.377923
+"263",,Africa,,Aegyptus,Euhemeria,Fayum,locality,,30.55,29.383333
+"264",,Europe,,Gallia Aquitania,Fauroux,Sas-de-Marty,approximate,,1.024615,44.246651
+"265",,Europe,,Britannia,Fishbourne,Villa,,,-0.809805,50.83652
+"266","197273",Europe,,Noricum,Flavia Solva,"Urban House, Insula 9",,,15.562997,46.767482
+"267",,Europe,,Gallia Belgica,Fliessem-Otrang,Rural Villa,,,0,0
+"268","187386",Europe,,Gallia Narbonensis,Forum Iulii,Edifice of St. Antoine's Mound,,,13.4333385,46.091866
+"269","187386",Europe,,Gallia Narbonensis,Forum Iulii,Edifice of Platform,,,13.4333385,46.091866
+"270","187386",Europe,,Gallia Narbonensis,Forum Iulii,House on Formige Square,,,13.4333385,46.091866
+"271","187386",Europe,,Gallia Narbonensis,Forum Iulii,"Tower Enclosure, House IIIA",,,13.4333385,46.091866
+"272",,Europe,,Hispania Tarraconensis,Fraga,Villa of Fortunatas,,,0,0
+"273",,Europe,,Germania Superior,Friedberg-Pfingstweide,Rural Villa,,,0,0
+"274",,Europe,,Britannia,Frocester Court,Rural Villa,,,-2.308958,51.723816
+"275",,Italy,Region VIII,Parma,Funerary gardens of C. Praeconius,,locality,,10.3254,44.7992
+"276",,Italy,Region X,Aquileia,Funerary Grove of C. Chryseros,,locality,,13.3748,45.77
+"277",,Italy,Region IV,Villa Adriana,Garden area under Temple of Venus of Cnidus,,rough,,12.77485192,41.94459315
+"278",,Italy,Region IV,Villa Adriana,Garden between nymphaeum and praetorium,,verified,,12.777282,41.94061498
+"279",,Italy,Region IV,Villa Adriana,Garden in belvedere of Temple of Venus of Cnidus,,rough,,12.77479827,41.94464901
+"280",,Italy,Region IV,Villa Adriana,Garden in nymphaeum,,verified,,12.7786150574684,41.9409940573613
+"281",,Italy,Region IV,Villa Adriana,Garden in Piazza d'Oro,,verified,,12.77827978,41.94130529
+"282",,Italy,Region IV,Villa Adriana,Garden in Throne Hall,,site,,12.77756095,41.94223102
+"283",,Italy,Region IV,Villa Adriana,Garden in Valley of Tempe,,verified,,12.7785801887512,41.9439866626499
+"284",,Italy,Region IV,Villa Adriana,Garden of Antinous' tomb,,verified,,12.7737307548523,41.9408743502282
+"285",,Italy,Region IV,Villa Adriana,Garden of inferi nymphaeum,,rough,,12.77956188,41.9380891
+"286",,Italy,Region IV,Villa Adriana,Garden of the Tomb,,locality,,12.77839243,41.93980496
+"287",,Italy,Region IV,Villa Adriana,Garden of triclinium north of maritime theater,,verified,,12.77567267,41.94259811
+"288",,Italy,Region IV,Villa Adriana,Garden on eastern side of Republican Villa,,verified,,12.7781564,41.94269387
+"289",,Italy,Region IV,Villa Adriana,Gardens between the small baths and the three exedrae hall,,verified,,12.77511477,41.94087435
+"290",,Italy,Region IV,Villa Adriana,Garden Terrace,,rough,,12.77178884,41.94263402
+"291",,Italy,Region IV,Villa Adriana,Garden under the library terrace,,verified,,12.776021361351,41.9430210640252
+"292",,Europe,,Britannia,Gatcombe,Rural Villa,,,-2.147368,51.826783
+"293","177528",Europe,,Gallia Narbonensis,Genava,Urban House,approximate,,6.14386126,46.20195951
+"294","177528",Europe,,Gallia Narbonensis,Genava,Suburban Villa,approximate,,6.16736412,46.20733912
+"295","344380",Africa,,Africa Proconsularis,Gigthis,Suburban villa,site,,10.6741511821747,33.5327112170868
+"296",,Europe,,Gallia Narbonensis,Gilly-sur-Isere,Villa du Grand Verger,,,0,0
+"297",,Asia,,Phrygia,Gordion,Midas' Tomb,,,31.97857,39.650103
+"298",,Europe,,Britannia,Gorhambury,Rural Villa,,,-0.358136,51.754095
+"299",,Italy,Region VIII,Sirmio,Grotto of Catullus,,verified,,10.6069028377533,45.5012412055084
+"300",,Africa,,Africa Proconsularis,Hadrumetum,House of the Masks,,,10.63878,35.825866
+"301",,Africa,,Africa Proconsularis,Hadrumetum,House of Vergil,close,,10.63878,35.825866
+"302",,Asia,,Asia,Halicarnassus,Mausoleon,verified,,27.424385,37.038046
+"303",,Italy,Region I,Campania,Herculaneum,,rough,,14.348058,40.805843
+"304",,Asia,,Iudaea,Herodium,Lower Terrace,,,35.24080396,31.66526697
+"305",,Asia,,Iudaea,Herodium,Fortress Palace,,,35.2418,31.6657
+"306",,Asia,,Asia,Hierapolis,Tomb Gardens,verified,,29.125833,37.925
+"307",,Asia,,Asia,Hierapolis,Tomb Gardens,verified,,29.125833,37.925
+"308",,Asia,,Asia,Hierapolis,Tomb Gardens,verified,,29.125833,37.925
+"309","638860",Asia,,Asia,Hierapolis,Tomb Gardens,verified,,29.125833,37.925
+"310","638860",Asia,,Asia,Hierapolis,Tomb Gardens,verified,,29.125833,37.925
+"311","638860",Asia,,Asia,Hierapolis,Tomb Gardens,verified,,29.125833,37.925
+"312","609403",Asia,,Asia,Hierapolis,Tomb Gardens,verified,,29.125833,37.925
+"313","305090",Africa,,Africa Proconsularis,Hippo Regius,Villa of the Sea Front,,,7.751272,36.882478
+"314",,Italy,Region IV,Villas near Tivoli,Horace's Sabine Villa,,,,0,0
+"315",,Africa,,Africa Proconsularis,Horea Caelia,House of the Two Peristyles,verified,,10.517062,36.023752
+"316",,Asia,,Arabia Petraea,Humeima,Shrine,,,0,0
+"317",,Europe,,Germania Superior,Hummetroth,Rural Villa,,,0,0
+"318",,Africa,,Mauretania Caesariensis,Iol (Caesarea),House of the Tennis Club,,,0,0
+"319",,Africa,,Mauretania Caesariensis,Iol (Caesarea),House of the Two Pools,,,0,0
+"320",,Africa,,Mauretania Caesariensis,Iol (Caesarea),Inscription,,,0,0
+"321",,Africa,,Mauretania Caesariensis,Iol (Caesarea),House of Jonchee,verified,,2.458699,36.594593
+"322",,Africa,,Mauretania Caesariensis,Iol (Caesarea),House of the Cap Tizerine,,,0,0
+"323",,Africa,,Mauretania Caesariensis,Iol (Caesarea),House of Kaid Youcef's Estate,,,0,0
+"324","570316",Europe,,Achaia,Isthmia,Sanctuary of Poseidon,verified,,22.99296856,37.91579734
+"325","256231",Europe,,Hispania Baetica,Italica,House of the hidden path,close,,-6.04314566,37.44126035
+"326","256231",Europe,,Hispania Baetica,Italica,collegium exedra,close,,-6.04507148,37.44268292
+"327","256231",Europe,,Hispania Baetica,Italica,theater,close,,-6.03861809,37.44013591
+"328","256231",Europe,,Hispania Baetica,Italica,Public square,close,,-6.04551405,37.44291717
+"329","256231",Europe,,Hispania Baetica,Italica,House of the triclinium,locality,,-6.04464233,37.44024239
+"330","256231",Europe,,Hispania Baetica,Italica,House of the Birds,close,,-6.0444814,37.44178849
+"331",,Asia,,Syria,Jebel Khalid,Governor's Palace,,,0,0
+"332",,Asia,,Iudaea,Jericho,Hasmonean Palaces,,,35.443876,31.8700465
+"333",,Asia,,Iudaea,Jericho,Hasmonean Palaces,,,35.443876,31.8700465
+"334",,Europe,,Gallia Aquitania,Jurancon,Villa at Pont d'Oly,approximate,,-0.388289,43.268539
+"335",,Asia,,Asia,Kos,Sanctuary of Asklepios,verified,,27.257364,36.875375
+"336","736946",Asia,,Asia,Kos,Sanctuary of Asklepios,verified,,27.257364,36.875375
+"337","707549",Asia,,Cyprus,Kourion,Sanctuary of Apollo Hylates,,,32.883723,34.6662275
+"338",,Europe,,Achaia,Kyrtonos,Sanctuaries of Apollo and Nymphs,verified,,22.501117,38.482272
+"339",,Europe,,Gallia Aquitania,Labastide-d'Aramagnac,Villa of Geou,approximate,,-0.197198,43.959757
+"340",,Europe,,Gallia Aquitania,Lalonquette,Villa de l'Arribera deus Gleisiars,verified,,-0.310846,43.502846
+"341","422956",Italy,Region I,Latium,Lanuvium,,site,,12.697593,41.674703
+"342",,Europe,,Lusitania,Las Tiendas,Villa el Hinojal,wrong,,0,0
+"343",,Europe,,Britannia,Latimer,rural Villa,,,-0.558331,51.676592
+"344",,Europe,,Lusitania,Lavra,Fontao Villa,wrong,,0,0
+"345",,Italy,Region IV,Villa Adriana,Library peristyle,,verified,,12.77635932,41.94261407
+"346",,Europe,,Hispania Tarraconensis,Liedena,Villa Romana,,,0,0
+"347",,Europe,,Gallia Narbonensis,Loupian,Villa des Pres-Bas,,,0,0
+"348","413184",Italy,Region I,Latium,Lucus Feroniae,Villa of the V. Saturnini,verified,,12.60062903,42.13331567
+"349","413184",Italy,Region I,Latium,Lucus Feroniae,Villa of the V. Saturnini,verified,,12.60065317,42.133256
+"350","413184",Italy,Region I,Latium,Lucus Feroniae,,verified,,12.59509563,42.13145783
+"351","413184",Italy,Region I,Latium,Lucus Feroniae,,verified,,12.5960478186607,42.1299440733092
+"352","413184",Italy,Region I,Latium,Lucus Feroniae,Unnamed Villa,site,,12.60007381,42.13199092
+"353","413184",Italy,Region I,Latium,Lucus Feroniae,Unnamed Villa,site,,12.59646893,42.12981478
+"354","413184",Italy,Region I,Latium,Lucus Feroniae,Villa della Standa,rough,,12.59659767,42.13063034
+"355","413184",Italy,Region I,Latium,Lucus Feroniae,Villa della Standa,rough,,12.5966700911522,42.1294825785679
+"356","99003",Europe,,Gallia Lugdunensis,Lugdunum,House with Pilasters,verified,,4.81642127,45.76016184
+"357","99003",Europe,,Gallia Lugdunensis,Lugdunum,House of Masks,verified,,4.81898546,45.75954057
+"358","324774",Africa,,Africa Proconsularis,Mactaris,House of Venus,,,9.20696465,35.85385845
+"359","324774",Africa,,Africa Proconsularis,Mactaris,House of the two Juvenes,verified,,9.20696465,35.85385845
+"360",,Italy,Region IV,Villas near Tivoli,Manilius Vopiscus' Villa,,rough,,12.811,41.9511
+"361",,Europe,,Gallia Narbonensis,Martres Tolosane,Villa Chiragan,,,0,0
+"362","687968",Asia,,Iudaea,Masada,Herod's Palaces,,,35.35382385,31.3212033
+"363","109153",Europe,,Gallia Lugdunensis,Mediolanum Aulercorum,House on Rue de la Harpe,verified,,1.15116924,49.02281244
+"364",,Europe,,Achaia,Megalopolis,Sanctuary of Zeus,verified,,22.12764502,37.41303341
+"365",,Europe,,Achaia,Megalopolis,Sanctuary of Zeus,verified,,22.12764502,37.41303341
+"366",,Europe,,Silicia,Messina,Villa Castroreale San Biagio,,,0,0
+"367","432941",Italy,Region I,Campania,Misenum,,verified,,14.084884,40.786279
+"368",,Europe,,Gallia Narbonensis,Modene,Cemetery of the Combe,,,0,0
+"369",,Europe,,Gallia Aquitania,Moncrabeau,Villa de Bapteste,verified,,0.38842678,44.05928081
+"370",,Europe,,Lusitania,Monforte,Villa de Torre de Palma,wrong,,0,0
+"371",,Europe,,Gallia Aquitania,Montmaurin,Villa of Hillere,verified,,0.649184,43.225761
+"372",,Europe,,Gallia Aquitania,Montreal,Villa de Seviac,verified,,0.181948,43.943824
+"373","256318",Europe,,Hispania Baetica,Munigua,Sanctuary,close,,-5.740734,37.713343
+"374",,Asia,,Asia,Mytilene,Rural Estates,wrong,,0,0
+"375",,Europe,,Gallia Narbonensis,Narbo Martius,"Clos de la Lombarde, House III",,,0,0
+"376",,Europe,,Gallia Narbonensis,Narbo Martius,House with Porticoes,,,0,0
+"377",,Africa,,Africa Proconsularis,Neapolis,Nympharum Domus',verified,,10.741166,36.45043
+"378",,Europe,,Germania Inferior,Neerharen-Rekem,Rural Villa,,,0,0
+"379","148142",Europe,,Gallia Narbonensis,Nemausus,House of Fountain,verified,,4.35166955,43.841244
+"380","148142",Europe,,Gallia Narbonensis,Nemausus,"Quarter of Benedictines, House B",verified,,4.35294628,43.84133686
+"381","148142",Europe,,Gallia Narbonensis,Nemausus,"Quarter of Benedictines, House C",verified,,4.35394406,43.84139877
+"382","148142",Europe,,Gallia Narbonensis,Nemausus,House in Rue Nationale,verified,,4.35862452,43.83834788
+"383","148142",Europe,,Gallia Narbonensis,Nemausus,21 rue Seguier,approximate,,4.3670547,43.83765333
+"384","148142",Europe,,Gallia Narbonensis,Nemausus,Tomb Garden of Graptus,approximate,,4.3558377,43.83779649
+"385","148142",Europe,,Gallia Narbonensis,Nemausus,Avenue Jean-Jaures,approximate,,4.3559584,43.8378139
+"386","148142",Europe,,Gallia Narbonensis,Nemausus,"Oscilla, pots",verified,,4.35987711,43.83432556
+"387","148142",Europe,,Gallia Narbonensis,Nemausus,Domus de la Marseillaise,verified,,4.35530663,43.84178568
+"388","570504",Europe,,Achaia,Nemea,Sanctuary of Zeus,verified,,22.7104032,37.80952119
+"389","109194",Europe,,Gallia Belgica,Nemetacum,House on Rue de la Fraternite,approximate,,2.77858078,50.29274167
+"390",,Italy,Region I,Latium,Nemi?,,locality,,12.7038,41.7223
+"391",,Europe,,Gallia Belgica,Nennig,Rural Villa,,,0,0
+"392",,Europe,,Gallia Aquitania,Nerac,Villa of La Garenne,approximate,,0.341231,44.138759
+"393",,Italy,Region IV,Villas near Tivoli,Nero's Villa,,rough,,13.1074,41.9183
+"394",,Europe,,Germania Inferior,Niederzier,Hambach 69,,,0,0
+"395",,Europe,,Germania Inferior,Niederzier,Hambach 59,,,0,0
+"396",,Europe,,Achaia,Nikopolis,Victory Monument of Augustus,verified,,20.7355839,39.02773551
+"397",,Europe,,Achaia,Nikopolis,Victory Monument of Augustus,verified,,20.73557854,39.02773551
+"398",,Europe,,Achaia,Nikopolis,Victory Monument of Augustus,verified,,20.73557854,39.02773551
+"399",,Europe,,Gallia Lugdunensis,Noyal,Villa de Chatillon-sur-Seiche,,,0,0
+"400",,Europe,,Hispania Tarraconensis,Nules,Villa del Benicato,,,0,0
+"401",,Europe,,Germania Superior,Oberentfelden,Rural Villa,,,0,0
+"402",,Europe,,Lusitania,Olisipo,Tomb garden of F.M.f. Quadratus,approximate,,-9.135507,38.707166
+"403","570531",Europe,,Achaia,Olympia,Leonidaion,verified,,21.62879705,37.63770117
+"404","570531",Europe,,Achaia,Olympia,Sanctuary of Zeus,verified,,21.63025618,37.63793906
+"405","570531",Europe,,Achaia,Olympia,"Guest House I, II",verified,,21.62802458,37.63759072
+"406","570531",Europe,,Achaia,Olympia,House of Nero,verified,,21.6317153,37.63782012
+"407","540984",Europe,,Achaia,Onchestos,Sanctuary of Poseidon,,,23.150267,38.373269
+"408","432992",Italy,Region I,Campania,Oplontis,,verified,,14.45252775,40.7574734
+"409",,Europe,,Germania Superior,Orbe,Rural Villa,,,0,0
+"410",,Italy,Region VII,Cortona,Ossaia,,rough,,12.0052,43.2376
+"411","422995",Italy,Region I,Latium,Ostia,,verified,,12.28963025,41.75251955
+"412","422995",Italy,Region I,Latium,Ostia,,verified,,12.28963025,41.75251955
+"413",,Africa,,Aegyptus,Oxyrrynchite Nome,Middle Nile Valley,locality,,30.63087,28.499934
+"414",,Europe,,Silicia,Palermo,House C,,,12.493677,45.781212
+"415",,Europe,,Silicia,Palermo,House B,,,12.493677,45.781212
+"416",,Europe,,Silicia,Palermo,House A,,,12.493677,45.781212
+"417",,Europe,,Achaia,Pallene,Sanctuary of Ganymede/Heba,,,23.8490205,38.0183985
+"418",,Africa,,Aegyptus,Panoplis,Upper Nile Valley,locality,,31.746537,26.565077
+"419",,Italy,Region IV,Villa Adriana,Pecile garden,,verified,,12.77408481,41.9418719
+"420",,Europe,,Hispania Tarraconensis,Pedrosa de la Vega,La Olmeda,,,0,0
+"421","550812",Asia,,Asia,Pergamum,Palace Peristyle,verified,,27.183855,39.132695
+"422","550812",Asia,,Asia,Pergamum,Temple Grove,verified,,27.183855,39.132695
+"423","491691",Asia,,Arabia Petraea,Petra,Pool and Garden Complex,wrong,,34.82666015625,30.6757154041677
+"424",,Italy,Region I,Latium,Pliny’s Laurentine Villa,,,,0,0
+"425",,Italy,Region X,Barbariga,"Pola, Villa",,,,0,0
+"426","433032",Italy,Region I,Campania,Pompeii,,verified,,14.49112773,40.74989042
+"427","285503",Africa,,Mauretania Tingitana,Portus Magnus,Large House,,,-0.266018,35.807917
+"428","285503",Africa,,Mauretania Tingitana,Portus Magnus,Small House,,,-0.266018,35.807917
+"429",,Asia,,Asia,Priene?,,,,0,0
+"430",,Italy,Region I,Latium,Prima Porta (?),,rough,,12.4767,42.8137
+"431",,Italy,Region I,Latium,Prima Porta (?),Livia,verified,,12.494,42.0021
+"432",,Europe,,Gallia Narbonensis,Puissalicon,Montfau Site,,,0,0
+"433",,Europe,,Gallia Narbonensis,Puissalicon,Villa de la Condoumine,,,0,0
+"434",,Africa,,Africa Proconsularis,Puput,House of the black and white triclinium,verified,,10.562846,36.392815
+"435",,Africa,,Africa Proconsularis,Puput,House of viridarium,verified,,10.563067,36.392591
+"436",,Italy,Region I,Campania,Puteoli,,verified,,14.12086,40.8244395
+"437",,Europe,,Hispania Baetica,Quesada,Villa Brunel,close,,-3.07908207,37.88530956
+"438",,Italy,Region IV,Villas near Tivoli,Quintilius Varus' Villa,,,,0,0
+"439",,Asia,,Iudaea,Ranat Hanadiv,Palatial Complex,,,0,0
+"440",,Europe,,Germania Inferior,Rheinbach-Flerzheim,Rural Villa,,,0,0
+"441",,Asia,,Asia,Rhodes,"Palatial House, Rhodes",,,0,0
+"442",,Asia,,Asia,Rhodes,"Acropolis Groves, Rhodes",verified,,28.210503,36.439895
+"443",,Asia,,Asia,Rhodes,"Acropolis Grove, Lindos",verified,,28.087767,36.091861
+"444",,Europe,,Gallia Lugdunensis,Richebourg,Villa of Richebourg,,,0,0
+"445",,Europe,,Hispania Tarraconensis,Rielves,Baths' of Rielves,,,0,0
+"446",,Europe,,Hispania Tarraconensis,Rioseca di Sona,Villa los Quintanares,,,0,0
+"447",,Italy,Region I,Latium,Roman Gardens known from Writing,,,,0,0
+"448",,Italy,Region I,Latium,Rome,,verified,,12.4791169166565,41.8993862926604
+"449",,Italy,Region I,Latium,Rome,Palatine,verified,,12.4876999855041,41.8876143253802
+"450",,Italy,Region I,Latium,Rome,Divorum,rough,,12.47802258,41.89469853
+"451",,Italy,Region I,Latium,Rome,Musaerum,,,12.4868738651276,41.8912244130246
+"452",,Italy,Region I,Latium,Rome,Mausoleum of Augustus,verified,,12.47642398,41.90603003
+"453",,Italy,Region I,Latium,Rome,Porticus Liviae,rough,,12.49957681,41.89555305
+"454",,Italy,Region I,Latium,Rome,Forum Romanum,verified,,12.48532891,41.89208697
+"455",,Italy,Region I,Latium,Rome,Aedes Atrium,verified,,12.4862033128738,41.8917255760999
+"456",,Italy,Region I,Latium,Rome,Templum Divi Claudii,rough,,12.4930644,41.88838907
+"457",,Italy,Region I,Latium,Rome,Forum Traiani,verified,,12.48522162,41.89501798
+"458",,Italy,Region I,Latium,Rome,Domus Aurea,rough,,12.49392271,41.89265402
+"459","197477",Europe,,Dacia,Romula,Tomb garden of A. I. Iulianus,,,24.3972065,44.1742125
+"460","197477",Europe,,Dacia,Romula,Tomb garden of A. I. Iulianus,,,15.666591,45.865867
+"461",,Europe,,Hispania Tarraconensis,Saguntum,Tomb garden/baths of P.C. Rufus,approximate,,-0.27748525,39.67807726
+"462",,Europe,,Gallia Aquitania,Saint-Cricq-Villeneuve,Villa at Glesia,approximate,,-0.351854,43.894495
+"463",,Europe,,Gallia Narbonensis,Saint-Cyr-sur-Mer,Villa des Baumelles,,,0,0
+"464",,Europe,,Gallia Lugdunensis,Sainte-Marguerite-sur-Mer,Villa,,,0,0
+"465",,Europe,,Gallia Aquitania,Saint-Emilion,Villa du Pulat,,,0,0
+"466",,Europe,,Gallia Aquitania,Saintes,Tomb garden of C.I. Aemulianus,,,0,0
+"467",,Europe,,Gallia Aquitania,Saint-Sever,Villa of Gleyzia d'Augreihl,verified,,-0.607343,43.758335
+"468","197488",Europe,,Dalmatia,Salona,Cemetery Garden,,,16.4832580089569,43.5397215206134
+"469","197488",Europe,,Dalmatia,Salona,Tomb Garden of Cingius Iustinus,,,16.4839553833008,43.5393093222588
+"470","197488",Europe,,Dalmatia,Salona,Tomb Garden of Iulia Mutiana,,,16.4832593500614,43.5397215206134
+"471","599925",Asia,,Asia,Samos,Private House?,verified,,26.979926,37.76968
+"472","599925",Asia,,Asia,Samos,Private House?,verified,,26.979926,37.76968
+"473",,Europe,,Hispania Tarraconensis,Santervas del Burgo,Villa de los Villares,,,0,0
+"474",,Asia,,Asia,Sardis,Palaestra,wrong,,28.040286,38.488314
+"475",,Italy,Region I,Campania,Scafati,,verified,,14.53308,40.7622
+"476","266036",Europe,,Hispania Tarraconensis,Segobriga,Bath Complex,verified,,-2.81302,39.885321
+"477",,Europe,,Gallia Lugdunensis,Selongey,Villa des Tuilleries,,,0,0
+"478",,Europe,,Gallia Aquitania,Sorde-l'Abbaye,Villa,approximate,,-1.054241,43.528407
+"479",,Europe,,Gallia Aquitania,Sorde-l'Abbaye,Barat-de-Vin,,,0,0
+"480","433128",Italy,Region I,Campania,Stabiae,,rough,,14.4927305,40.6997655
+"481",,Europe,,Hispania Tarraconensis,Sta. Colomba de Somoza,Villa el Soldan,,,0,0
+"482",,Italy,Region IV,Villa Adriana,Stadium gardens,,verified,,12.77554393,41.94116963
+"483",,Europe,,Gallia Narbonensis,St-Romain-en-Gal,House of the Ocean Gods,,,0,0
+"484",,Europe,,Gallia Narbonensis,St-Romain-en-Gal,House of Five Mosaics,,,0,0
+"485",,Europe,,Gallia Narbonensis,St-Romain-en-Gal,House of Sucellus,,,0,0
+"486",,Europe,,Gallia Narbonensis,St-Romain-en-Gal,House with the Painted Portico,,,0,0
+"487",,Europe,,Gallia Narbonensis,St-Romain-en-Gal,House of the Lion,,,0,0
+"488",,Europe,,Gallia Narbonensis,St-Romain-en-Gal,House of the Columns,,,0,0
+"489",,Europe,,Gallia Narbonensis,St-Romain-en-Gal,House of the Fish,,,0,0
+"490",,Europe,,Gallia Narbonensis,St-Romain-en-Gal,House A under High School,,,0,0
+"491",,Europe,,Gallia Narbonensis,St-Romain-en-Gal,House B under High School,,,0,0
+"492",,Europe,,Gallia Narbonensis,St-Romain-en-Gal,House of the Dove,,,0,0
+"493",,Europe,,Britannia,Sudeley/Spoonley Wood,Rural Villa,,,-1.935873,51.929252
+"494","324816",Africa,,Africa Proconsularis,Sufetula,House of the seasons,verified,,9.119793,35.240165
+"495",,Europe,,Silicia,Syracuse,Public Square,,,0,0
+"496",,Europe,,Silicia,Syracuse,Villa Borgellusa di Avola,,,0,0
+"497",,Europe,,Silicia,Taormina,Villa S. Pancrazio,,,0,0
+"498",,Europe,,Gallia Narbonensis,Taradeau,Villa of St. Martin,,,0,0
+"499",,Europe,,Gallia Aquitania,Taron-Sadirac-Villenave,Villa de Taron,approximate,,-0.24991751,43.51016832
+"500",,Europe,,Hispania Tarraconensis,Tarraco,Schola of collegia Fabrum,,,0,0
+"501",,Europe,,Hispania Tarraconensis,Tarraco,Theater,,,0,0
+"502",,Africa,,Numidia,Thamagudi,Tomb garden of Cicero Thabudeiensis,verified,,6.467448,35.485077
+"503","315220",Africa,,Africa Proconsularis,Thuburbo Maius,House of Trussed animals,verified,,9.9039905,36.400355
+"504","315220",Africa,,Africa Proconsularis,Thuburbo Maius,House of Bacchus and Ariadne,verified,,9.9039905,36.400355
+"505","315220",Africa,,Africa Proconsularis,Thuburbo Maius,Peristyle Market,,,9.9039905,36.400355
+"506","315220",Africa,,Africa Proconsularis,Thuburbo Maius,House of Neptune,verified,,9.9039905,36.400355
+"507","315220",Africa,,Africa Proconsularis,Thuburbo Maius,House of palms,verified,,9.9039905,36.400355
+"508","315220",Africa,,Africa Proconsularis,Thuburbo Maius,House of Nicentus,,,9.9039905,36.400355
+"509","315220",Africa,,Africa Proconsularis,Thuburbo Maius,Peristyle of the Petronii,,,9.9039905,36.400355
+"510","315220",Africa,,Africa Proconsularis,Thuburbo Maius,Temple of Balaat,verified,,9.9039905,36.400355
+"511","315220",Africa,,Africa Proconsularis,Thuburbo Maius,Temple of Caelestis,,,9.9039905,36.400355
+"512","315220",Africa,,Africa Proconsularis,Thuburbo Maius,East Temple,verified,,9.9039905,36.400355
+"513","315220",Africa,,Africa Proconsularis,Thuburbo Maius,Building of three pools,,,9.9039905,36.400355
+"514","315220",Africa,,Africa Proconsularis,Thuburbo Maius,House of the protome,,,9.9039905,36.400355
+"515",,Africa,,Africa Proconsularis,Thugga,House Omnia tibi felicia,verified,,9.2188665,36.422473
+"516",,Africa,,Africa Proconsularis,Thugga,House of Trifolium,verified,,9.2188665,36.422473
+"517",,Africa,,Africa Proconsularis,Thugga,Theater,verified,,9.2188665,36.422473
+"518","324835",Africa,,Africa Proconsularis,Thysdrus,House of Africa,,,10.707584,35.2960575
+"519","324835",Africa,,Africa Proconsularis,Thysdrus,House of peacock,verified,,10.707584,35.2960575
+"520","324835",Africa,,Africa Proconsularis,Thysdrus,Sollertianna Domus,verified,,10.707584,35.2960575
+"521","324835",Africa,,Africa Proconsularis,Thysdrus,House of white mosaics,verified,,10.707584,35.2960575
+"522","324835",Africa,,Africa Proconsularis,Thysdrus,House of Lucius Verus,,,10.707584,35.2960575
+"523","324835",Africa,,Africa Proconsularis,Thysdrus,House of Dolphins,verified,,10.707584,35.2960575
+"524",,Africa,,Mauretania Tingitana,Tipasa,Villa of the Frescoes,verified,,2.44159341,36.59421968
+"525","344519",Africa,,Mauretania Tingitana,Tipasa,Villa of the Frescoes,verified,,10.747979,33.726022
+"526","305169",Africa,,Mauretania Tingitana,Tipasa,Villa of the Frescoes,verified,,7.75,36.25
+"527",,Europe,,Achaia,Titane,Shrine of the Fates,verified,,22.623851,37.919512
+"528","246694",Europe,,Gallia Narbonensis,Tolosa,Domus under Hotel D'Assezat,verified,,1.4418751,43.60035395
+"529",,Italy,Region X,Altinum,"Tomb garden, l. Patroclus",,rough,,12.3994,45.5462
+"530",,Italy,Region X,Patavium,Tomb garden of A. Coelius C.,,locality,,11.8698,45.4071
+"531",,Italy,Region VII,Capena,Tomb garden of L. Chaerusa,,rough,,12.5402,42.1424
+"532",,Italy,Region IX,Vardagate,Tomb garden of V. Hermes,,locality,,8.4406,45.0818
+"533",,Italy,Region I,Latium,Tomb Gardens near Rome,,rough,,12.5033855438232,41.9093037286688
+"534",,Europe,,Gallia Narbonensis,Touvres,Villa de Muscapeau,,,0,0
+"535",,Italy,Region IV,Arcinazzo Romano,Trajan's Villa,,rough,,13.1589,41.8548
+"536",,Asia,,Syria,Tyre,Tomb Garden,,,0,0
+"537",,Asia,,Syria,Tyros,Iraq-el Amir,,,35.2038435,33.2698475
+"538",,Asia,,Syria,Tyros,Iraq-el Amir,,,41.97266,34.462015
+"539","570759",Asia,,Syria,Tyros,Iraq-el Amir,,,39.92431640625,34.4884478378093
+"540","315247",Africa,,Africa Proconsularis,Uthina,House of Icarios,verified,,10.172291,36.607458
+"541","315248",Africa,,Africa Proconsularis,Utica,House H,verified,,10.061305,37.055611
+"542","315248",Africa,,Africa Proconsularis,Utica,House of the figured basins,verified,,10.061305,37.055611
+"543","315248",Africa,,Africa Proconsularis,Utica,House of the Treasure,verified,,10.061305,37.055611
+"544","315248",Africa,,Africa Proconsularis,Utica,House of the Cascade,verified,,10.061305,37.055611
+"545","315248",Africa,,Africa Proconsularis,Utica,"Insula II, lot 4",verified,,10.061305,37.055611
+"546","315248",Africa,,Africa Proconsularis,Utica,House of grand oecus,verified,,10.061305,37.055611
+"547",,Africa,,Africa Proconsularis,Uzitta,???,,,0,0
+"548",,Europe,,Gallia Aquitania,Valentine,Villa of Arnesp,verified,,0.68908,43.096051
+"549",,Europe,,Gallia Narbonensis,Vasio Voncontorium,House of the peacock,,,0,0
+"550",,Europe,,Gallia Narbonensis,Vasio Voncontorium,House of Laurel-wreathed Apollo,,,0,0
+"551",,Europe,,Gallia Narbonensis,Vasio Voncontorium,House with Arbor,,,0,0
+"552",,Europe,,Gallia Narbonensis,Vasio Voncontorium,House of Dolphin,,,0,0
+"553",,Europe,,Gallia Narbonensis,Vasio Voncontorium,House of Silver Bust,,,0,0
+"554",,Italy,Region I,Campania,Velia,,verified,,15.15546799,40.16109947
+"555",,Italy,Region IV,Villas near Tivoli,Ventidius Bassus' Villa,,,,0,0
+"556","177657",Europe,,Germania Superior,Vesontio,House in Rue du Palais de Justice,,,6.027924,47.2372405
+"557","177657",Europe,,Germania Superior,Vesontio,Structures under college Lumiere,,,6.027924,47.2372405
+"558","138650",Europe,,Gallia Aquitania,Vesunna,Domus Campniac,,,0.71798085,45.18386505
+"559","138650",Europe,,Gallia Aquitania,Vesunna,House of Vesunna,,,0.71798085,45.18386505
+"560","138650",Europe,,Gallia Aquitania,Vesunna,"House of ""Visitation""",approximate,,0.71798085,45.18386505
+"561",,Europe,,Germania Inferior,Vetera Casta,Legionary Houses,,,0,0
+"562",,Europe,,Gallia Narbonensis,Vienna,House of the head of Ivory,,,0,0
+"563",,Europe,,Gallia Narbonensis,Vienna,House in Rue des Colonnes,,,0,0
+"564",,Europe,,Gallia Narbonensis,Vienna,House of Orpheus,,,0,0
+"565",,Europe,,Gallia Narbonensis,Vienna,House of Bacchus and Ariadne,,,0,0
+"566",,Europe,,Gallia Narbonensis,Vienna,House of the Nympheas,,,0,0
+"567",,Europe,,Gallia Narbonensis,Vienna,"Nympheas, House of the Atrium",,,0,0
+"568",,Europe,,Gallia Belgica,Vierherrenborn,Rural Villa,,,0,0
+"569",,Europe,,Lusitania,Vila de Frades,Villa Sao Cucufate,wrong,,0,0
+"570",,Italy,Region VIII,Desenzano,Villa,,,,0,0
+"571",,Italy,Region VIII,Toscolano Maderno,Villa,,rough,,10.6128,45.6379
+"572",,Italy,Region IX,La Spezia,Villa at Luna,,rough,,9.8214,44.1159
+"573",,Italy,Region VII,Orbetello,Villa at Settefinestre,,verified,,11.3267,42.4305
+"574",,Italy,Region VII,Bracciano,Villa dell'Acqua Claudia,,verified,,12.3008143901825,42.0669408529913
+"575",,Italy,Region VII,Elba,Villa delle Grotte,,verified,,10.33076406,42.80048618
+"576",,Italy,Region IV,Villas near Tivoli,Villa of Horace,,verified,,12.9011,42.0661
+"577",,Italy,Region IV,Villas near Tivoli,Villa of Pianelle dei Signori Reali,,,,0,0
+"578",,Italy,Region IV,Villas near Tivoli,Villa of St. Stefano near Montecelio,,rough,,12.7257,41.9921
+"579",,Italy,Region X,Tegeste,Villa of the Bath,,rough,,13.7377166748047,45.6975474261076
+"580",,Italy,Region X,Tegeste,Villa of the Statue,,locality,,13.725,45.7015
+"581",,Italy,Region IV,Villas near Tivoli,Villa of Vibii Vari,,,,0,0
+"582",,Europe,,Gallia Lugdunensis,Vindinum,House on Place des Halles,,,0,0
+"583",,Europe,,Germania Inferior,Voerendaal,Rural Villa,,,0,0
+"584","275740",Africa,,Mauretania Tingitana,Volubilis,Gordinian Palace,verified,,-5.5548,34.0725
+"585","275740",Africa,,Mauretania Tingitana,Volubilis,House of Ephebe,verified,,-5.5548,34.0725
+"586","275740",Africa,,Mauretania Tingitana,Volubilis,House of Columns,verified,,-5.5548,34.0725
+"587","275740",Africa,,Mauretania Tingitana,Volubilis,House of Labors of Hercules,verified,,-5.5548,34.0725
+"588","275740",Africa,,Mauretania Tingitana,Volubilis,House of Flavius Germanus,verified,,-5.5548,34.0725
+"589","275740",Africa,,Mauretania Tingitana,Volubilis,House of the Venus Mosaic,verified,,-5.5548,34.0725
+"590",,Europe,,Gallia Belgica,Welschbillig,Rural Villa,,,0,0
+"591",,Europe,,Germania Superior,Wiesbaden-Biebrich,Rural Villa,,,0,0
+"592",,Europe,,Pannonia,Winden am see,Rural Villa,,,0,0
+"593",,Europe,,Germania Superior,Winkel-Seeb,Rural Villa,,,0,0
+"594",,Africa,,Aegyptus,Kanopos,Alexandria,,,31.31294,30.071657
+"595",,Italy,,Roma,Gardens of Seneca,,rough,,12.50498,41.8865
+"596",,Italy,,Roma,Gardens of Septimius Severus,,rough,,12.463415,41.893133
+"597",,Italy,,Roma,Gardens Near Spes Vetus,,rough,,12.516907,41.888622
+"598",,Italy,,Roma,Gardens of Nero,,rough,,12.461381,41.900013
+"599",,Italy,,Roma,Gardens of Maius,,rough,,12.496374,41.894514
+"600",,Italy,,Roma,Gardens of Pallas = Gardens of Licinius,,rough,,12.511151,41.894534
+"601",,Italy,,Roma,Gardens of (P. Cornelius)Scipio,,rough,,12.487518,41.896285
+"602",,Italy,,Roma,Gardens of (M. Statilius) Taurus,,rough,,12.508398,41.894895
+"603",,Italy,,Roma,Gardens of (D. Iunius) Torquatus,,rough,,12.514513,41.891877
+"604",,Italy,,Roma,Gardens of Valerius Messalla Corvinus,,rough,,12.484059,41.905492
+"605",,Italy,,Roma,Gardens of Volusius Saturninus via Salaria,,rough,,12.485747,41.911732
+"606",,Italy,,Roma,Gardens of Frontinus,,rough,,12.501486,41.894375
+"607",,Italy,,Roma,Gardens of (Acilius) Glabrio,,rough,,12.481368,41.90873
+"608",,Italy,,Roma,Gardens of (L. Aelius) Lamia,,rough,,12.501002,41.894529
+"609",,Italy,,Roma,Gardens of (T. Quinctius) Scapula,,rough,,12.45593,41.930438
+"610",,Italy,,Roma,Gardens of Asinius Pollio,,rough,,12.492477,41.882675
+"611",,Italy,,Roma,Gardens of Callicles,,rough,,12.503921,41.896465
+"612",,Italy,,Roma,Gardens of Domitia Lucilla(Calvilla),,rough,,12.50637,41.88734
+"613",,Italy,,Roma,Gardens of Drusus Caesar,,rough,"same location as H. Asinius Pollio, porta capena",12.48913,41.884847
+"614",,Italy,,Roma,Horti Caesaris,,rough,,12.463337,41.882291
+"615",,Italy,,Roma,Garden of Agrippa (Kim),,rough,,12.469232,41.898426
+"616",,Italy,,Roma,Gardens of Apronius,,rough,,12.473355,41.889352
+"617",,Italy,,Roma,Gardens of Aquilius Regulus,,rough,,12.464185,41.909782
+"618",,Italy,,Roma,Horti Maecenatis,,rough,,12.500967,41.89494
+"619",,Italy,,Roma,Horti Domitiae,,rough,,12.466055,41.905836
+"620",,Italy,,Roma,Horti Agrippinae,,rough,,12.460197,41.900398
+"621",,Italy,,Roma,Horti Getae,,rough,,12.460985,41.8929
+"622",,Italy,,Roma,Horti Liciniani,,rough,,12.511511,41.893354
+"623",,Italy,,Roma,Sessorium,,rough,,12.5158,41.889852
+"624",,Italy,,Roma,Horti Torquatiani,,rough,,12.508328,41.89148
+"625",,Italy,,Roma,Horti Lamiani,,rough,,12.506668,41.892345
+"626",,Italy,,Roma,Horti Lolliani,,rough,,12.500303,41.901285
+"627",,Italy,,Roma,Horti Tauriani et Calyclani,,rough,,12.503818,41.89803
+"628",,Italy,,Roma,Horti Pallantiani,,rough,,12.505229,41.896815
+"629",,Italy,,Roma,Horti Epaphroditiani,,rough,,12.507553,41.895085
+"630",,Italy,,Roma,Horti Domitiorum,,rough,,12.478317,41.909595
+"631",,Italy,,Roma,Horti Aciliorum,,rough,,12.477833,41.91187
+"632",,Italy,,Roma,Horti Luculli,,rough,,12.483976,41.906228
+"633",,Italy,,Roma,Horti Sallustiani,,rough,,12.490092,41.907103
+"634",,Italy,,Roma,Domus Aurea,,approximate,northern extent of DA-extends down to Circus Maximus,12.495403,41.891244
+"635",,Italy,,Roma,Templum Pacis,,rough,,12.487263,41.892832
+"636",,Italy,,Roma,three houses,,,,12.4954713333333,41.8961732787136
+"637",,Italy,,Roma,Atrium Vestae Garden,,site,,12.4866223845124,41.8913829685923
+"638",,Italy,,Roma,D C,,,,12.4931951076565,41.8876061927969
+"639",,Italy,,Roma,Mausoleum of Augustus,,,,12.476235624953,41.9050342277108
+"640",,Italy,,Roma,divorum,,approximate,,12.4797829137998,41.8985571688677
