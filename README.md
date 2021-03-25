@@ -1,4 +1,4 @@
-# old-gre-data
+# old-gre-map-data
 
 This repo contains datasets related to the locations of Gardens of the Roman Empire.
 
